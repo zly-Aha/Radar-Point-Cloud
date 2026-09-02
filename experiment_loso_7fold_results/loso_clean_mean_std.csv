@@ -1,0 +1,2 @@
+﻿folds,method,sample_accuracy_mean,sample_accuracy_std,sample_macro_f1_mean,sample_macro_f1_std,sample_weighted_f1_mean,sample_weighted_f1_std,trial_accuracy_mean,trial_accuracy_std,trial_macro_f1_mean,trial_macro_f1_std,trial_weighted_f1_mean,trial_weighted_f1_std
+7,radar_stnet,0.7483583387692977,0.1524936504063729,0.7181047631986403,0.17228324762410938,0.7181047631986403,0.1722832476241094,0.7857142857142858,0.1772810520855837,0.7371629560915274,0.21677179254409784,0.7371629560915274,0.21677179254409784

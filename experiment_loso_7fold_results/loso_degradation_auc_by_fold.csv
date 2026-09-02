@@ -1,0 +1,15 @@
+﻿auc,degradation,fold,method,test_subjects
+0.5390932024679803,point_missing,loso_test_p1_val_p2,radar_stnet,p1
+0.5952299590227325,coordinate_noise,loso_test_p1_val_p2,radar_stnet,p1
+0.9040191656698369,point_missing,loso_test_p2_val_p3,radar_stnet,p2
+0.9065764915209785,coordinate_noise,loso_test_p2_val_p3,radar_stnet,p2
+0.6497929384907325,point_missing,loso_test_p3_val_p4,radar_stnet,p3
+0.5577613893244132,coordinate_noise,loso_test_p3_val_p4,radar_stnet,p3
+0.4699864637378545,point_missing,loso_test_p4_val_p5,radar_stnet,p4
+0.5976302331595864,coordinate_noise,loso_test_p4_val_p5,radar_stnet,p4
+0.8933972305818774,point_missing,loso_test_p5_val_p6,radar_stnet,p5
+0.8837879247856278,coordinate_noise,loso_test_p5_val_p6,radar_stnet,p5
+0.8782092009730657,point_missing,loso_test_p6_val_p7,radar_stnet,p6
+0.8571604861207012,coordinate_noise,loso_test_p6_val_p7,radar_stnet,p6
+0.5890567633027232,point_missing,loso_test_p7_val_p1,radar_stnet,p7
+0.5763497517131775,coordinate_noise,loso_test_p7_val_p1,radar_stnet,p7

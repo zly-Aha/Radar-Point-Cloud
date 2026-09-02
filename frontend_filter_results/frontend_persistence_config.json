@@ -1,0 +1,34 @@
+{
+  "dataset_path": "Processed_Dataset_NPY",
+  "checkpoint_root": "checkpoints",
+  "output_dir": "frontend_filter_results",
+  "methods": [
+    "radar_stnet",
+    "pct_gru"
+  ],
+  "test_subjects": [
+    7
+  ],
+  "levels": [
+    "0",
+    "0.1",
+    "0.2",
+    "0.3"
+  ],
+  "seeds": [
+    "0",
+    "1",
+    "2"
+  ],
+  "clutter_type": "structured_realistic_clutter",
+  "seq_len": 25,
+  "n_points": 128,
+  "window_stride": 1,
+  "max_windows_per_file": 20,
+  "batch_size": 64,
+  "num_workers": 0,
+  "device": "cuda",
+  "radius": 0.035,
+  "min_persistence": 4,
+  "max_motion": 0.015
+}

@@ -1,0 +1,3 @@
+﻿auc_mean,auc_std,degradation,folds,method
+0.7106423193781739,0.16193413822150207,coordinate_noise,7,radar_stnet
+0.7033649950320101,0.18454084501718834,point_missing,7,radar_stnet

@@ -1,0 +1,91 @@
+{
+  "dataset_path": "/root/rivermind-fs/Radar/server_training_package/Processed_Dataset_NPY",
+  "output_dir": "/root/rivermind-fs/Radar/server_training_package/experiment_loso_7fold_results",
+  "methods": [
+    "radar_stnet"
+  ],
+  "seq_len": 25,
+  "n_points": 128,
+  "window_stride": 1,
+  "max_windows_per_file": 0,
+  "epochs": 30,
+  "batch_size": 32,
+  "degradation_batch_size": 128,
+  "num_workers": 8,
+  "lr": 0.0005,
+  "weight_decay": 0.001,
+  "label_smoothing": 0.02,
+  "seed": 42,
+  "device": "cuda",
+  "skip_clean_train": false,
+  "skip_degradation": false,
+  "run_missing": true,
+  "run_noise": true,
+  "run_clutter": false,
+  "run_realistic_clutter": false,
+  "missing_levels": [
+    "0",
+    "0.1",
+    "0.2",
+    "0.3",
+    "0.4",
+    "0.5",
+    "0.6",
+    "0.7"
+  ],
+  "noise_levels": [
+    "0",
+    "0.01",
+    "0.02",
+    "0.05",
+    "0.08",
+    "0.10"
+  ],
+  "clutter_levels": [
+    "0",
+    "0.1",
+    "0.2",
+    "0.4",
+    "0.6",
+    "0.8"
+  ],
+  "realistic_clutter_levels": [
+    "0",
+    "0.02",
+    "0.05",
+    "0.10",
+    "0.15",
+    "0.20",
+    "0.30"
+  ],
+  "degradation_seeds": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "realistic_mode": "mixed",
+  "divide_auc_by_clean": false,
+  "subjects": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "class_names": [
+    "box",
+    "fall",
+    "jump",
+    "left_forerake",
+    "open_arms",
+    "right_forerake",
+    "sit",
+    "squat",
+    "stand",
+    "walk"
+  ]
+}

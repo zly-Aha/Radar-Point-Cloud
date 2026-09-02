@@ -1,0 +1,9 @@
+﻿variant,setting,checkpoint,sample_accuracy,sample_macro_f1,sample_weighted_f1,sample_count,trial_accuracy,trial_macro_f1,trial_count
+full,clean,/root/rivermind-fs/Radar/server_training_package/mechanism_all_checkpoints/train_p1-p5_val_p6_test_p7_radar_stnet.pth,0.9849695585996956,0.985035686967341,0.9850356869673412,26280,1.0,1.0,30
+no_motion,clean,/root/rivermind-fs/Radar/server_training_package/mechanism_all_checkpoints/no_motion_best.pth,0.9389649923896499,0.9377912850538568,0.937791285053857,26280,1.0,1.0,30
+no_tcn,clean,/root/rivermind-fs/Radar/server_training_package/mechanism_all_checkpoints/no_tcn_best.pth,0.8962709284627093,0.883690461050391,0.883690461050391,26280,0.9,0.8666666666666666,30
+no_transformer,clean,/root/rivermind-fs/Radar/server_training_package/mechanism_all_checkpoints/no_transformer_best.pth,0.8829908675799086,0.8674996257170052,0.8674996257170053,26280,0.9,0.8666666666666666,30
+no_attention_pool,clean,/root/rivermind-fs/Radar/server_training_package/mechanism_all_checkpoints/no_attention_pool_best.pth,0.9603500761035008,0.9597674556753683,0.9597674556753683,26280,1.0,1.0,30
+no_raw_stats,clean,/root/rivermind-fs/Radar/server_training_package/mechanism_all_checkpoints/no_raw_stats_best.pth,0.9332952815829528,0.9299708118876714,0.9299708118876715,26280,0.9666666666666667,0.9657142857142856,30
+max_only,clean,/root/rivermind-fs/Radar/server_training_package/mechanism_all_checkpoints/max_only_best.pth,0.8850076103500761,0.8863023403264643,0.8863023403264642,26280,0.9666666666666667,0.9657142857142856,30
+first_order_motion,clean,/root/rivermind-fs/Radar/server_training_package/mechanism_all_checkpoints/first_order_motion_best.pth,0.9808219178082191,0.9807166568379755,0.9807166568379754,26280,1.0,1.0,30

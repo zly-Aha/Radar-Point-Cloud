@@ -1,0 +1,13 @@
+﻿auc,degradation,fold,method,test_subjects
+0.43673172066120347,point_missing,loso_test_p1_val_p2,pointnet_gru,p1
+0.46644729611265184,coordinate_noise,loso_test_p1_val_p2,pointnet_gru,p1
+0.06152507010415779,strong_synthetic_clutter,loso_test_p1_val_p2,pointnet_gru,p1
+0.21401270525031282,structured_realistic_clutter,loso_test_p1_val_p2,pointnet_gru,p1
+0.4658603848815765,point_missing,loso_test_p1_val_p2,pointnet_tcn,p1
+0.5145279710455715,coordinate_noise,loso_test_p1_val_p2,pointnet_tcn,p1
+0.0765061277738021,strong_synthetic_clutter,loso_test_p1_val_p2,pointnet_tcn,p1
+0.17644691244325952,structured_realistic_clutter,loso_test_p1_val_p2,pointnet_tcn,p1
+0.40848879057403376,point_missing,loso_test_p1_val_p2,robhar_like,p1
+0.45047339345603316,coordinate_noise,loso_test_p1_val_p2,robhar_like,p1
+0.05530334415916508,strong_synthetic_clutter,loso_test_p1_val_p2,robhar_like,p1
+0.177458235172635,structured_realistic_clutter,loso_test_p1_val_p2,robhar_like,p1

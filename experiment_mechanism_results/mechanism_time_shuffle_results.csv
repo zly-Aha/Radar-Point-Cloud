@@ -1,0 +1,2 @@
+﻿variant,setting,shuffle_seed,sample_accuracy,sample_macro_f1,sample_weighted_f1,sample_count,trial_accuracy,trial_macro_f1,trial_count
+full,time_shuffle,2026,0.9095890410958904,0.9084272915557555,0.9084272915557556,26280,1.0,1.0,30

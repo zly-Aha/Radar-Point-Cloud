@@ -1,0 +1,1488 @@
+
+=== loso_test_p1_val_p2 | stats_svm ===
+train=[3, 4, 5, 6, 7], val=[2], test=[1]
+
+=== loso_test_p1_val_p2 | stats_rf ===
+train=[3, 4, 5, 6, 7], val=[2], test=[1]
+
+=== loso_test_p1_val_p2 | stats_knn ===
+train=[3, 4, 5, 6, 7], val=[2], test=[1]
+
+=== loso_test_p1_val_p2 | pointnet_gru ===
+train=[3, 4, 5, 6, 7], val=[2], test=[1]
+[loso_test_p1_val_p2] pointnet_gru epoch 001/30 | train_loss=0.1757 | train_acc=0.9869 | val_f1=0.6842
+[loso_test_p1_val_p2] pointnet_gru epoch 002/30 | train_loss=0.1386 | train_acc=0.9980 | val_f1=0.6100
+[loso_test_p1_val_p2] pointnet_gru epoch 003/30 | train_loss=0.1360 | train_acc=0.9988 | val_f1=0.6756
+[loso_test_p1_val_p2] pointnet_gru epoch 004/30 | train_loss=0.1343 | train_acc=0.9992 | val_f1=0.5858
+[loso_test_p1_val_p2] pointnet_gru epoch 005/30 | train_loss=0.1340 | train_acc=0.9993 | val_f1=0.7387
+[loso_test_p1_val_p2] pointnet_gru epoch 006/30 | train_loss=0.1336 | train_acc=0.9993 | val_f1=0.6099
+[loso_test_p1_val_p2] pointnet_gru epoch 007/30 | train_loss=0.1326 | train_acc=0.9996 | val_f1=0.6869
+[loso_test_p1_val_p2] pointnet_gru epoch 008/30 | train_loss=0.1326 | train_acc=0.9996 | val_f1=0.6881
+[loso_test_p1_val_p2] pointnet_gru epoch 009/30 | train_loss=0.1323 | train_acc=0.9997 | val_f1=0.6352
+[loso_test_p1_val_p2] pointnet_gru epoch 010/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.7043
+[loso_test_p1_val_p2] pointnet_gru epoch 011/30 | train_loss=0.1329 | train_acc=0.9995 | val_f1=0.6464
+[loso_test_p1_val_p2] pointnet_gru epoch 012/30 | train_loss=0.1317 | train_acc=0.9998 | val_f1=0.6498
+[loso_test_p1_val_p2] pointnet_gru epoch 013/30 | train_loss=0.1322 | train_acc=0.9997 | val_f1=0.6547
+[loso_test_p1_val_p2] pointnet_gru epoch 014/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.6765
+[loso_test_p1_val_p2] pointnet_gru epoch 015/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.6966
+[loso_test_p1_val_p2] pointnet_gru epoch 016/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.7348
+[loso_test_p1_val_p2] pointnet_gru epoch 017/30 | train_loss=0.1311 | train_acc=0.9999 | val_f1=0.6718
+[loso_test_p1_val_p2] pointnet_gru epoch 018/30 | train_loss=0.1312 | train_acc=0.9999 | val_f1=0.6838
+[loso_test_p1_val_p2] pointnet_gru epoch 019/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.5853
+[loso_test_p1_val_p2] pointnet_gru epoch 020/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7278
+[loso_test_p1_val_p2] pointnet_gru epoch 021/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.6817
+[loso_test_p1_val_p2] pointnet_gru epoch 022/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.6837
+[loso_test_p1_val_p2] pointnet_gru epoch 023/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.6077
+[loso_test_p1_val_p2] pointnet_gru epoch 024/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6557
+[loso_test_p1_val_p2] pointnet_gru epoch 025/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6818
+[loso_test_p1_val_p2] pointnet_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6716
+[loso_test_p1_val_p2] pointnet_gru epoch 027/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7051
+[loso_test_p1_val_p2] pointnet_gru epoch 028/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6679
+[loso_test_p1_val_p2] pointnet_gru epoch 029/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6836
+[loso_test_p1_val_p2] pointnet_gru epoch 030/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6701
+
+=== loso_test_p1_val_p2 | pointnet_tcn ===
+train=[3, 4, 5, 6, 7], val=[2], test=[1]
+[loso_test_p1_val_p2] pointnet_tcn epoch 001/30 | train_loss=0.1642 | train_acc=0.9921 | val_f1=0.8231
+[loso_test_p1_val_p2] pointnet_tcn epoch 002/30 | train_loss=0.1383 | train_acc=0.9988 | val_f1=0.8252
+[loso_test_p1_val_p2] pointnet_tcn epoch 003/30 | train_loss=0.1369 | train_acc=0.9990 | val_f1=0.7760
+[loso_test_p1_val_p2] pointnet_tcn epoch 004/30 | train_loss=0.1354 | train_acc=0.9994 | val_f1=0.7821
+[loso_test_p1_val_p2] pointnet_tcn epoch 005/30 | train_loss=0.1352 | train_acc=0.9995 | val_f1=0.9118
+[loso_test_p1_val_p2] pointnet_tcn epoch 006/30 | train_loss=0.1344 | train_acc=0.9996 | val_f1=0.8457
+[loso_test_p1_val_p2] pointnet_tcn epoch 007/30 | train_loss=0.1343 | train_acc=0.9996 | val_f1=0.8573
+[loso_test_p1_val_p2] pointnet_tcn epoch 008/30 | train_loss=0.1340 | train_acc=0.9997 | val_f1=0.7297
+[loso_test_p1_val_p2] pointnet_tcn epoch 009/30 | train_loss=0.1338 | train_acc=0.9997 | val_f1=0.9378
+[loso_test_p1_val_p2] pointnet_tcn epoch 010/30 | train_loss=0.1335 | train_acc=0.9998 | val_f1=0.8135
+[loso_test_p1_val_p2] pointnet_tcn epoch 011/30 | train_loss=0.1332 | train_acc=0.9999 | val_f1=0.8048
+[loso_test_p1_val_p2] pointnet_tcn epoch 012/30 | train_loss=0.1334 | train_acc=0.9998 | val_f1=0.7955
+[loso_test_p1_val_p2] pointnet_tcn epoch 013/30 | train_loss=0.1331 | train_acc=0.9999 | val_f1=0.8720
+[loso_test_p1_val_p2] pointnet_tcn epoch 014/30 | train_loss=0.1329 | train_acc=0.9999 | val_f1=0.8346
+[loso_test_p1_val_p2] pointnet_tcn epoch 015/30 | train_loss=0.1330 | train_acc=0.9999 | val_f1=0.9098
+[loso_test_p1_val_p2] pointnet_tcn epoch 016/30 | train_loss=0.1328 | train_acc=0.9999 | val_f1=0.8364
+[loso_test_p1_val_p2] pointnet_tcn epoch 017/30 | train_loss=0.1329 | train_acc=0.9999 | val_f1=0.9072
+[loso_test_p1_val_p2] pointnet_tcn epoch 018/30 | train_loss=0.1327 | train_acc=0.9999 | val_f1=0.9268
+[loso_test_p1_val_p2] pointnet_tcn epoch 019/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.9342
+[loso_test_p1_val_p2] pointnet_tcn epoch 020/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.8574
+[loso_test_p1_val_p2] pointnet_tcn epoch 021/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.9081
+[loso_test_p1_val_p2] pointnet_tcn epoch 022/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.8595
+[loso_test_p1_val_p2] pointnet_tcn epoch 023/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.8811
+[loso_test_p1_val_p2] pointnet_tcn epoch 024/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.8703
+[loso_test_p1_val_p2] pointnet_tcn epoch 025/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.8364
+[loso_test_p1_val_p2] pointnet_tcn epoch 026/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.8513
+[loso_test_p1_val_p2] pointnet_tcn epoch 027/30 | train_loss=0.1323 | train_acc=1.0000 | val_f1=0.8872
+[loso_test_p1_val_p2] pointnet_tcn epoch 028/30 | train_loss=0.1323 | train_acc=1.0000 | val_f1=0.8675
+[loso_test_p1_val_p2] pointnet_tcn epoch 029/30 | train_loss=0.1323 | train_acc=1.0000 | val_f1=0.8662
+[loso_test_p1_val_p2] pointnet_tcn epoch 030/30 | train_loss=0.1323 | train_acc=1.0000 | val_f1=0.8261
+
+=== loso_test_p1_val_p2 | robhar_like ===
+train=[3, 4, 5, 6, 7], val=[2], test=[1]
+[loso_test_p1_val_p2] robhar_like epoch 001/30 | train_loss=0.1789 | train_acc=0.9853 | val_f1=0.6597
+[loso_test_p1_val_p2] robhar_like epoch 002/30 | train_loss=0.1391 | train_acc=0.9980 | val_f1=0.6447
+[loso_test_p1_val_p2] robhar_like epoch 003/30 | train_loss=0.1363 | train_acc=0.9988 | val_f1=0.6606
+[loso_test_p1_val_p2] robhar_like epoch 004/30 | train_loss=0.1362 | train_acc=0.9988 | val_f1=0.6744
+[loso_test_p1_val_p2] robhar_like epoch 005/30 | train_loss=0.1346 | train_acc=0.9993 | val_f1=0.5317
+[loso_test_p1_val_p2] robhar_like epoch 006/30 | train_loss=0.1340 | train_acc=0.9994 | val_f1=0.7077
+[loso_test_p1_val_p2] robhar_like epoch 007/30 | train_loss=0.1333 | train_acc=0.9995 | val_f1=0.6441
+[loso_test_p1_val_p2] robhar_like epoch 008/30 | train_loss=0.1332 | train_acc=0.9996 | val_f1=0.6536
+[loso_test_p1_val_p2] robhar_like epoch 009/30 | train_loss=0.1333 | train_acc=0.9996 | val_f1=0.6352
+[loso_test_p1_val_p2] robhar_like epoch 010/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.6386
+[loso_test_p1_val_p2] robhar_like epoch 011/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.6377
+[loso_test_p1_val_p2] robhar_like epoch 012/30 | train_loss=0.1324 | train_acc=0.9998 | val_f1=0.6607
+[loso_test_p1_val_p2] robhar_like epoch 013/30 | train_loss=0.1324 | train_acc=0.9997 | val_f1=0.6553
+[loso_test_p1_val_p2] robhar_like epoch 014/30 | train_loss=0.1321 | train_acc=0.9998 | val_f1=0.6056
+[loso_test_p1_val_p2] robhar_like epoch 015/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.5437
+[loso_test_p1_val_p2] robhar_like epoch 016/30 | train_loss=0.1317 | train_acc=1.0000 | val_f1=0.5974
+[loso_test_p1_val_p2] robhar_like epoch 017/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.6604
+[loso_test_p1_val_p2] robhar_like epoch 018/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.6248
+[loso_test_p1_val_p2] robhar_like epoch 019/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.6651
+[loso_test_p1_val_p2] robhar_like epoch 020/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.6038
+[loso_test_p1_val_p2] robhar_like epoch 021/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.6146
+[loso_test_p1_val_p2] robhar_like epoch 022/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.6809
+[loso_test_p1_val_p2] robhar_like epoch 023/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.6309
+[loso_test_p1_val_p2] robhar_like epoch 024/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.5785
+[loso_test_p1_val_p2] robhar_like epoch 025/30 | train_loss=0.1313 | train_acc=1.0000 | val_f1=0.6147
+[loso_test_p1_val_p2] robhar_like epoch 026/30 | train_loss=0.1313 | train_acc=1.0000 | val_f1=0.6008
+[loso_test_p1_val_p2] robhar_like epoch 027/30 | train_loss=0.1313 | train_acc=1.0000 | val_f1=0.6127
+[loso_test_p1_val_p2] robhar_like epoch 028/30 | train_loss=0.1313 | train_acc=1.0000 | val_f1=0.6048
+[loso_test_p1_val_p2] robhar_like epoch 029/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.5902
+[loso_test_p1_val_p2] robhar_like epoch 030/30 | train_loss=0.1313 | train_acc=1.0000 | val_f1=0.5810
+
+=== loso_test_p1_val_p2 | pct_gru ===
+train=[3, 4, 5, 6, 7], val=[2], test=[1]
+[loso_test_p1_val_p2] pct_gru epoch 001/30 | train_loss=0.2130 | train_acc=0.9718 | val_f1=0.5688
+[loso_test_p1_val_p2] pct_gru epoch 002/30 | train_loss=0.1410 | train_acc=0.9973 | val_f1=0.3910
+[loso_test_p1_val_p2] pct_gru epoch 003/30 | train_loss=0.1384 | train_acc=0.9980 | val_f1=0.4560
+[loso_test_p1_val_p2] pct_gru epoch 004/30 | train_loss=0.1362 | train_acc=0.9986 | val_f1=0.6074
+[loso_test_p1_val_p2] pct_gru epoch 005/30 | train_loss=0.1349 | train_acc=0.9990 | val_f1=0.5452
+[loso_test_p1_val_p2] pct_gru epoch 006/30 | train_loss=0.1341 | train_acc=0.9992 | val_f1=0.5996
+[loso_test_p1_val_p2] pct_gru epoch 007/30 | train_loss=0.1353 | train_acc=0.9988 | val_f1=0.6210
+[loso_test_p1_val_p2] pct_gru epoch 008/30 | train_loss=0.1327 | train_acc=0.9996 | val_f1=0.5379
+[loso_test_p1_val_p2] pct_gru epoch 009/30 | train_loss=0.1328 | train_acc=0.9996 | val_f1=0.6168
+[loso_test_p1_val_p2] pct_gru epoch 010/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.6564
+[loso_test_p1_val_p2] pct_gru epoch 011/30 | train_loss=0.1329 | train_acc=0.9995 | val_f1=0.5754
+[loso_test_p1_val_p2] pct_gru epoch 012/30 | train_loss=0.1330 | train_acc=0.9995 | val_f1=0.5790
+[loso_test_p1_val_p2] pct_gru epoch 013/30 | train_loss=0.1318 | train_acc=0.9998 | val_f1=0.6146
+[loso_test_p1_val_p2] pct_gru epoch 014/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.6008
+[loso_test_p1_val_p2] pct_gru epoch 015/30 | train_loss=0.1322 | train_acc=0.9996 | val_f1=0.5343
+[loso_test_p1_val_p2] pct_gru epoch 016/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6087
+[loso_test_p1_val_p2] pct_gru epoch 017/30 | train_loss=0.1319 | train_acc=0.9997 | val_f1=0.4705
+[loso_test_p1_val_p2] pct_gru epoch 018/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.5969
+[loso_test_p1_val_p2] pct_gru epoch 019/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.5155
+[loso_test_p1_val_p2] pct_gru epoch 020/30 | train_loss=0.1312 | train_acc=0.9999 | val_f1=0.5529
+[loso_test_p1_val_p2] pct_gru epoch 021/30 | train_loss=0.1311 | train_acc=0.9999 | val_f1=0.4748
+[loso_test_p1_val_p2] pct_gru epoch 022/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.5233
+[loso_test_p1_val_p2] pct_gru epoch 023/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.4978
+[loso_test_p1_val_p2] pct_gru epoch 024/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.5401
+[loso_test_p1_val_p2] pct_gru epoch 025/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.5638
+[loso_test_p1_val_p2] pct_gru epoch 026/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.5918
+[loso_test_p1_val_p2] pct_gru epoch 027/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.6088
+[loso_test_p1_val_p2] pct_gru epoch 028/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.6063
+[loso_test_p1_val_p2] pct_gru epoch 029/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.5986
+[loso_test_p1_val_p2] pct_gru epoch 030/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.5951
+
+=== loso_test_p1_val_p2 | dgcnn_gru ===
+train=[3, 4, 5, 6, 7], val=[2], test=[1]
+[loso_test_p1_val_p2] dgcnn_gru epoch 001/30 | train_loss=0.1980 | train_acc=0.9793 | val_f1=0.8271
+[loso_test_p1_val_p2] dgcnn_gru epoch 002/30 | train_loss=0.1397 | train_acc=0.9980 | val_f1=0.8049
+[loso_test_p1_val_p2] dgcnn_gru epoch 003/30 | train_loss=0.1361 | train_acc=0.9988 | val_f1=0.8714
+[loso_test_p1_val_p2] dgcnn_gru epoch 004/30 | train_loss=0.1351 | train_acc=0.9992 | val_f1=0.8467
+[loso_test_p1_val_p2] dgcnn_gru epoch 005/30 | train_loss=0.1341 | train_acc=0.9993 | val_f1=0.8061
+[loso_test_p1_val_p2] dgcnn_gru epoch 006/30 | train_loss=0.1341 | train_acc=0.9994 | val_f1=0.8445
+[loso_test_p1_val_p2] dgcnn_gru epoch 007/30 | train_loss=0.1324 | train_acc=0.9998 | val_f1=0.8825
+[loso_test_p1_val_p2] dgcnn_gru epoch 008/30 | train_loss=0.1340 | train_acc=0.9993 | val_f1=0.8376
+[loso_test_p1_val_p2] dgcnn_gru epoch 009/30 | train_loss=0.1328 | train_acc=0.9996 | val_f1=0.7908
+[loso_test_p1_val_p2] dgcnn_gru epoch 010/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.8169
+[loso_test_p1_val_p2] dgcnn_gru epoch 011/30 | train_loss=0.1321 | train_acc=0.9998 | val_f1=0.8745
+[loso_test_p1_val_p2] dgcnn_gru epoch 012/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.7427
+[loso_test_p1_val_p2] dgcnn_gru epoch 013/30 | train_loss=0.1320 | train_acc=0.9998 | val_f1=0.7156
+[loso_test_p1_val_p2] dgcnn_gru epoch 014/30 | train_loss=0.1319 | train_acc=0.9998 | val_f1=0.7728
+[loso_test_p1_val_p2] dgcnn_gru epoch 015/30 | train_loss=0.1317 | train_acc=0.9998 | val_f1=0.8430
+[loso_test_p1_val_p2] dgcnn_gru epoch 016/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.7960
+[loso_test_p1_val_p2] dgcnn_gru epoch 017/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.7902
+[loso_test_p1_val_p2] dgcnn_gru epoch 018/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.7499
+[loso_test_p1_val_p2] dgcnn_gru epoch 019/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7701
+[loso_test_p1_val_p2] dgcnn_gru epoch 020/30 | train_loss=0.1312 | train_acc=0.9999 | val_f1=0.8262
+[loso_test_p1_val_p2] dgcnn_gru epoch 021/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.8284
+[loso_test_p1_val_p2] dgcnn_gru epoch 022/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7830
+[loso_test_p1_val_p2] dgcnn_gru epoch 023/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.8371
+[loso_test_p1_val_p2] dgcnn_gru epoch 024/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.8372
+[loso_test_p1_val_p2] dgcnn_gru epoch 025/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7980
+[loso_test_p1_val_p2] dgcnn_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.8388
+[loso_test_p1_val_p2] dgcnn_gru epoch 027/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.8573
+[loso_test_p1_val_p2] dgcnn_gru epoch 028/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7752
+[loso_test_p1_val_p2] dgcnn_gru epoch 029/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7992
+[loso_test_p1_val_p2] dgcnn_gru epoch 030/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.8336
+
+=== loso_test_p1_val_p2 | radar_stnet ===
+train=[3, 4, 5, 6, 7], val=[2], test=[1]
+[loso_test_p1_val_p2] radar_stnet epoch 001/30 | train_loss=0.1973 | train_acc=0.9812 | val_f1=0.7952
+[loso_test_p1_val_p2] radar_stnet epoch 002/30 | train_loss=0.1480 | train_acc=0.9972 | val_f1=0.7947
+[loso_test_p1_val_p2] radar_stnet epoch 003/30 | train_loss=0.1458 | train_acc=0.9977 | val_f1=0.7510
+[loso_test_p1_val_p2] radar_stnet epoch 004/30 | train_loss=0.1439 | train_acc=0.9981 | val_f1=0.8407
+[loso_test_p1_val_p2] radar_stnet epoch 005/30 | train_loss=0.1419 | train_acc=0.9987 | val_f1=0.8048
+[loso_test_p1_val_p2] radar_stnet epoch 006/30 | train_loss=0.1407 | train_acc=0.9989 | val_f1=0.7309
+[loso_test_p1_val_p2] radar_stnet epoch 007/30 | train_loss=0.1386 | train_acc=0.9992 | val_f1=0.7252
+[loso_test_p1_val_p2] radar_stnet epoch 008/30 | train_loss=0.1382 | train_acc=0.9993 | val_f1=0.7484
+[loso_test_p1_val_p2] radar_stnet epoch 009/30 | train_loss=0.1376 | train_acc=0.9993 | val_f1=0.7305
+[loso_test_p1_val_p2] radar_stnet epoch 010/30 | train_loss=0.1361 | train_acc=0.9996 | val_f1=0.7469
+[loso_test_p1_val_p2] radar_stnet epoch 011/30 | train_loss=0.1362 | train_acc=0.9996 | val_f1=0.7520
+[loso_test_p1_val_p2] radar_stnet epoch 012/30 | train_loss=0.1359 | train_acc=0.9996 | val_f1=0.8503
+[loso_test_p1_val_p2] radar_stnet epoch 013/30 | train_loss=0.1351 | train_acc=0.9998 | val_f1=0.8248
+[loso_test_p1_val_p2] radar_stnet epoch 014/30 | train_loss=0.1354 | train_acc=0.9996 | val_f1=0.8616
+[loso_test_p1_val_p2] radar_stnet epoch 015/30 | train_loss=0.1350 | train_acc=0.9997 | val_f1=0.8372
+[loso_test_p1_val_p2] radar_stnet epoch 016/30 | train_loss=0.1344 | train_acc=0.9998 | val_f1=0.9051
+[loso_test_p1_val_p2] radar_stnet epoch 017/30 | train_loss=0.1344 | train_acc=0.9998 | val_f1=0.7811
+[loso_test_p1_val_p2] radar_stnet epoch 018/30 | train_loss=0.1344 | train_acc=0.9998 | val_f1=0.7671
+[loso_test_p1_val_p2] radar_stnet epoch 019/30 | train_loss=0.1341 | train_acc=0.9999 | val_f1=0.8355
+[loso_test_p1_val_p2] radar_stnet epoch 020/30 | train_loss=0.1341 | train_acc=0.9999 | val_f1=0.8329
+[loso_test_p1_val_p2] radar_stnet epoch 021/30 | train_loss=0.1341 | train_acc=0.9999 | val_f1=0.8623
+[loso_test_p1_val_p2] radar_stnet epoch 022/30 | train_loss=0.1338 | train_acc=1.0000 | val_f1=0.8285
+[loso_test_p1_val_p2] radar_stnet epoch 023/30 | train_loss=0.1338 | train_acc=1.0000 | val_f1=0.9198
+[loso_test_p1_val_p2] radar_stnet epoch 024/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.8751
+[loso_test_p1_val_p2] radar_stnet epoch 025/30 | train_loss=0.1338 | train_acc=1.0000 | val_f1=0.8640
+[loso_test_p1_val_p2] radar_stnet epoch 026/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.8976
+[loso_test_p1_val_p2] radar_stnet epoch 027/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.8956
+[loso_test_p1_val_p2] radar_stnet epoch 028/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.8905
+[loso_test_p1_val_p2] radar_stnet epoch 029/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.8907
+[loso_test_p1_val_p2] radar_stnet epoch 030/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.8918
+
+=== loso_test_p2_val_p3 | stats_svm ===
+train=[1, 4, 5, 6, 7], val=[3], test=[2]
+
+=== loso_test_p2_val_p3 | stats_rf ===
+train=[1, 4, 5, 6, 7], val=[3], test=[2]
+
+=== loso_test_p2_val_p3 | stats_knn ===
+train=[1, 4, 5, 6, 7], val=[3], test=[2]
+
+=== loso_test_p2_val_p3 | pointnet_gru ===
+train=[1, 4, 5, 6, 7], val=[3], test=[2]
+[loso_test_p2_val_p3] pointnet_gru epoch 001/30 | train_loss=0.1851 | train_acc=0.9837 | val_f1=0.4399
+[loso_test_p2_val_p3] pointnet_gru epoch 002/30 | train_loss=0.1403 | train_acc=0.9977 | val_f1=0.5579
+[loso_test_p2_val_p3] pointnet_gru epoch 003/30 | train_loss=0.1370 | train_acc=0.9987 | val_f1=0.4274
+[loso_test_p2_val_p3] pointnet_gru epoch 004/30 | train_loss=0.1354 | train_acc=0.9989 | val_f1=0.4550
+[loso_test_p2_val_p3] pointnet_gru epoch 005/30 | train_loss=0.1352 | train_acc=0.9990 | val_f1=0.4346
+[loso_test_p2_val_p3] pointnet_gru epoch 006/30 | train_loss=0.1343 | train_acc=0.9992 | val_f1=0.4603
+[loso_test_p2_val_p3] pointnet_gru epoch 007/30 | train_loss=0.1337 | train_acc=0.9994 | val_f1=0.5612
+[loso_test_p2_val_p3] pointnet_gru epoch 008/30 | train_loss=0.1330 | train_acc=0.9996 | val_f1=0.5175
+[loso_test_p2_val_p3] pointnet_gru epoch 009/30 | train_loss=0.1331 | train_acc=0.9995 | val_f1=0.6741
+[loso_test_p2_val_p3] pointnet_gru epoch 010/30 | train_loss=0.1325 | train_acc=0.9997 | val_f1=0.6242
+[loso_test_p2_val_p3] pointnet_gru epoch 011/30 | train_loss=0.1322 | train_acc=0.9997 | val_f1=0.5138
+[loso_test_p2_val_p3] pointnet_gru epoch 012/30 | train_loss=0.1322 | train_acc=0.9997 | val_f1=0.5089
+[loso_test_p2_val_p3] pointnet_gru epoch 013/30 | train_loss=0.1321 | train_acc=0.9997 | val_f1=0.5655
+[loso_test_p2_val_p3] pointnet_gru epoch 014/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.5232
+[loso_test_p2_val_p3] pointnet_gru epoch 015/30 | train_loss=0.1316 | train_acc=0.9998 | val_f1=0.4940
+[loso_test_p2_val_p3] pointnet_gru epoch 016/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.5292
+[loso_test_p2_val_p3] pointnet_gru epoch 017/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.4912
+[loso_test_p2_val_p3] pointnet_gru epoch 018/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.4909
+[loso_test_p2_val_p3] pointnet_gru epoch 019/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.4669
+[loso_test_p2_val_p3] pointnet_gru epoch 020/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.4756
+[loso_test_p2_val_p3] pointnet_gru epoch 021/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.4423
+[loso_test_p2_val_p3] pointnet_gru epoch 022/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4693
+[loso_test_p2_val_p3] pointnet_gru epoch 023/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.5206
+[loso_test_p2_val_p3] pointnet_gru epoch 024/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4848
+[loso_test_p2_val_p3] pointnet_gru epoch 025/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4811
+[loso_test_p2_val_p3] pointnet_gru epoch 026/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4806
+[loso_test_p2_val_p3] pointnet_gru epoch 027/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4496
+[loso_test_p2_val_p3] pointnet_gru epoch 028/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4541
+[loso_test_p2_val_p3] pointnet_gru epoch 029/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4531
+[loso_test_p2_val_p3] pointnet_gru epoch 030/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4480
+
+=== loso_test_p2_val_p3 | pointnet_tcn ===
+train=[1, 4, 5, 6, 7], val=[3], test=[2]
+[loso_test_p2_val_p3] pointnet_tcn epoch 001/30 | train_loss=0.1775 | train_acc=0.9881 | val_f1=0.4747
+[loso_test_p2_val_p3] pointnet_tcn epoch 002/30 | train_loss=0.1406 | train_acc=0.9982 | val_f1=0.5580
+[loso_test_p2_val_p3] pointnet_tcn epoch 003/30 | train_loss=0.1380 | train_acc=0.9988 | val_f1=0.5918
+[loso_test_p2_val_p3] pointnet_tcn epoch 004/30 | train_loss=0.1367 | train_acc=0.9991 | val_f1=0.6458
+[loso_test_p2_val_p3] pointnet_tcn epoch 005/30 | train_loss=0.1362 | train_acc=0.9992 | val_f1=0.6667
+[loso_test_p2_val_p3] pointnet_tcn epoch 006/30 | train_loss=0.1358 | train_acc=0.9993 | val_f1=0.6073
+[loso_test_p2_val_p3] pointnet_tcn epoch 007/30 | train_loss=0.1346 | train_acc=0.9996 | val_f1=0.7967
+[loso_test_p2_val_p3] pointnet_tcn epoch 008/30 | train_loss=0.1349 | train_acc=0.9994 | val_f1=0.6268
+[loso_test_p2_val_p3] pointnet_tcn epoch 009/30 | train_loss=0.1345 | train_acc=0.9996 | val_f1=0.7723
+[loso_test_p2_val_p3] pointnet_tcn epoch 010/30 | train_loss=0.1343 | train_acc=0.9996 | val_f1=0.8948
+[loso_test_p2_val_p3] pointnet_tcn epoch 011/30 | train_loss=0.1339 | train_acc=0.9997 | val_f1=0.6872
+[loso_test_p2_val_p3] pointnet_tcn epoch 012/30 | train_loss=0.1340 | train_acc=0.9997 | val_f1=0.7416
+[loso_test_p2_val_p3] pointnet_tcn epoch 013/30 | train_loss=0.1335 | train_acc=0.9998 | val_f1=0.7204
+[loso_test_p2_val_p3] pointnet_tcn epoch 014/30 | train_loss=0.1334 | train_acc=0.9998 | val_f1=0.6302
+[loso_test_p2_val_p3] pointnet_tcn epoch 015/30 | train_loss=0.1329 | train_acc=0.9999 | val_f1=0.6117
+[loso_test_p2_val_p3] pointnet_tcn epoch 016/30 | train_loss=0.1333 | train_acc=0.9998 | val_f1=0.7494
+[loso_test_p2_val_p3] pointnet_tcn epoch 017/30 | train_loss=0.1329 | train_acc=0.9999 | val_f1=0.6821
+[loso_test_p2_val_p3] pointnet_tcn epoch 018/30 | train_loss=0.1328 | train_acc=0.9999 | val_f1=0.5941
+[loso_test_p2_val_p3] pointnet_tcn epoch 019/30 | train_loss=0.1328 | train_acc=0.9999 | val_f1=0.7057
+[loso_test_p2_val_p3] pointnet_tcn epoch 020/30 | train_loss=0.1327 | train_acc=1.0000 | val_f1=0.5568
+[loso_test_p2_val_p3] pointnet_tcn epoch 021/30 | train_loss=0.1327 | train_acc=0.9999 | val_f1=0.5442
+[loso_test_p2_val_p3] pointnet_tcn epoch 022/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.6106
+[loso_test_p2_val_p3] pointnet_tcn epoch 023/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.6467
+[loso_test_p2_val_p3] pointnet_tcn epoch 024/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.5514
+[loso_test_p2_val_p3] pointnet_tcn epoch 025/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.6231
+[loso_test_p2_val_p3] pointnet_tcn epoch 026/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.6607
+[loso_test_p2_val_p3] pointnet_tcn epoch 027/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.6022
+[loso_test_p2_val_p3] pointnet_tcn epoch 028/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.6025
+[loso_test_p2_val_p3] pointnet_tcn epoch 029/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.6290
+[loso_test_p2_val_p3] pointnet_tcn epoch 030/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.6180
+
+=== loso_test_p2_val_p3 | robhar_like ===
+train=[1, 4, 5, 6, 7], val=[3], test=[2]
+[loso_test_p2_val_p3] robhar_like epoch 001/30 | train_loss=0.1869 | train_acc=0.9833 | val_f1=0.3989
+[loso_test_p2_val_p3] robhar_like epoch 002/30 | train_loss=0.1422 | train_acc=0.9971 | val_f1=0.3005
+[loso_test_p2_val_p3] robhar_like epoch 003/30 | train_loss=0.1378 | train_acc=0.9984 | val_f1=0.2421
+[loso_test_p2_val_p3] robhar_like epoch 004/30 | train_loss=0.1363 | train_acc=0.9989 | val_f1=0.3980
+[loso_test_p2_val_p3] robhar_like epoch 005/30 | train_loss=0.1355 | train_acc=0.9990 | val_f1=0.4107
+[loso_test_p2_val_p3] robhar_like epoch 006/30 | train_loss=0.1346 | train_acc=0.9992 | val_f1=0.3329
+[loso_test_p2_val_p3] robhar_like epoch 007/30 | train_loss=0.1338 | train_acc=0.9994 | val_f1=0.3344
+[loso_test_p2_val_p3] robhar_like epoch 008/30 | train_loss=0.1340 | train_acc=0.9994 | val_f1=0.3886
+[loso_test_p2_val_p3] robhar_like epoch 009/30 | train_loss=0.1333 | train_acc=0.9995 | val_f1=0.4628
+[loso_test_p2_val_p3] robhar_like epoch 010/30 | train_loss=0.1327 | train_acc=0.9997 | val_f1=0.5200
+[loso_test_p2_val_p3] robhar_like epoch 011/30 | train_loss=0.1332 | train_acc=0.9996 | val_f1=0.4728
+[loso_test_p2_val_p3] robhar_like epoch 012/30 | train_loss=0.1326 | train_acc=0.9998 | val_f1=0.2825
+[loso_test_p2_val_p3] robhar_like epoch 013/30 | train_loss=0.1325 | train_acc=0.9997 | val_f1=0.2815
+[loso_test_p2_val_p3] robhar_like epoch 014/30 | train_loss=0.1322 | train_acc=0.9998 | val_f1=0.4503
+[loso_test_p2_val_p3] robhar_like epoch 015/30 | train_loss=0.1322 | train_acc=0.9999 | val_f1=0.3935
+[loso_test_p2_val_p3] robhar_like epoch 016/30 | train_loss=0.1320 | train_acc=0.9998 | val_f1=0.3991
+[loso_test_p2_val_p3] robhar_like epoch 017/30 | train_loss=0.1320 | train_acc=0.9999 | val_f1=0.3592
+[loso_test_p2_val_p3] robhar_like epoch 018/30 | train_loss=0.1316 | train_acc=1.0000 | val_f1=0.4311
+[loso_test_p2_val_p3] robhar_like epoch 019/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.4801
+[loso_test_p2_val_p3] robhar_like epoch 020/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.3794
+[loso_test_p2_val_p3] robhar_like epoch 021/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.4114
+[loso_test_p2_val_p3] robhar_like epoch 022/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.3740
+[loso_test_p2_val_p3] robhar_like epoch 023/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.3642
+[loso_test_p2_val_p3] robhar_like epoch 024/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.4042
+[loso_test_p2_val_p3] robhar_like epoch 025/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.3697
+[loso_test_p2_val_p3] robhar_like epoch 026/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.3609
+[loso_test_p2_val_p3] robhar_like epoch 027/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.3742
+[loso_test_p2_val_p3] robhar_like epoch 028/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.4126
+[loso_test_p2_val_p3] robhar_like epoch 029/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.4316
+[loso_test_p2_val_p3] robhar_like epoch 030/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.4218
+
+=== loso_test_p2_val_p3 | pct_gru ===
+train=[1, 4, 5, 6, 7], val=[3], test=[2]
+[loso_test_p2_val_p3] pct_gru epoch 001/30 | train_loss=0.2167 | train_acc=0.9713 | val_f1=0.4292
+[loso_test_p2_val_p3] pct_gru epoch 002/30 | train_loss=0.1424 | train_acc=0.9969 | val_f1=0.4416
+[loso_test_p2_val_p3] pct_gru epoch 003/30 | train_loss=0.1389 | train_acc=0.9979 | val_f1=0.4365
+[loso_test_p2_val_p3] pct_gru epoch 004/30 | train_loss=0.1374 | train_acc=0.9984 | val_f1=0.5538
+[loso_test_p2_val_p3] pct_gru epoch 005/30 | train_loss=0.1352 | train_acc=0.9990 | val_f1=0.3204
+[loso_test_p2_val_p3] pct_gru epoch 006/30 | train_loss=0.1336 | train_acc=0.9994 | val_f1=0.4784
+[loso_test_p2_val_p3] pct_gru epoch 007/30 | train_loss=0.1355 | train_acc=0.9988 | val_f1=0.4219
+[loso_test_p2_val_p3] pct_gru epoch 008/30 | train_loss=0.1331 | train_acc=0.9995 | val_f1=0.5586
+[loso_test_p2_val_p3] pct_gru epoch 009/30 | train_loss=0.1324 | train_acc=0.9997 | val_f1=0.4799
+[loso_test_p2_val_p3] pct_gru epoch 010/30 | train_loss=0.1329 | train_acc=0.9996 | val_f1=0.4527
+[loso_test_p2_val_p3] pct_gru epoch 011/30 | train_loss=0.1324 | train_acc=0.9997 | val_f1=0.4355
+[loso_test_p2_val_p3] pct_gru epoch 012/30 | train_loss=0.1321 | train_acc=0.9997 | val_f1=0.4761
+[loso_test_p2_val_p3] pct_gru epoch 013/30 | train_loss=0.1319 | train_acc=0.9997 | val_f1=0.3920
+[loso_test_p2_val_p3] pct_gru epoch 014/30 | train_loss=0.1321 | train_acc=0.9997 | val_f1=0.5112
+[loso_test_p2_val_p3] pct_gru epoch 015/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4674
+[loso_test_p2_val_p3] pct_gru epoch 016/30 | train_loss=0.1316 | train_acc=0.9998 | val_f1=0.5146
+[loso_test_p2_val_p3] pct_gru epoch 017/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.4470
+[loso_test_p2_val_p3] pct_gru epoch 018/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4241
+[loso_test_p2_val_p3] pct_gru epoch 019/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.4608
+[loso_test_p2_val_p3] pct_gru epoch 020/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.4320
+[loso_test_p2_val_p3] pct_gru epoch 021/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4727
+[loso_test_p2_val_p3] pct_gru epoch 022/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4735
+[loso_test_p2_val_p3] pct_gru epoch 023/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.5024
+[loso_test_p2_val_p3] pct_gru epoch 024/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4576
+[loso_test_p2_val_p3] pct_gru epoch 025/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4864
+[loso_test_p2_val_p3] pct_gru epoch 026/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.4781
+[loso_test_p2_val_p3] pct_gru epoch 027/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.4997
+[loso_test_p2_val_p3] pct_gru epoch 028/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.4821
+[loso_test_p2_val_p3] pct_gru epoch 029/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.4860
+[loso_test_p2_val_p3] pct_gru epoch 030/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.4882
+
+=== loso_test_p2_val_p3 | dgcnn_gru ===
+train=[1, 4, 5, 6, 7], val=[3], test=[2]
+[loso_test_p2_val_p3] dgcnn_gru epoch 001/30 | train_loss=0.2075 | train_acc=0.9760 | val_f1=0.3919
+[loso_test_p2_val_p3] dgcnn_gru epoch 002/30 | train_loss=0.1420 | train_acc=0.9973 | val_f1=0.3586
+[loso_test_p2_val_p3] dgcnn_gru epoch 003/30 | train_loss=0.1378 | train_acc=0.9986 | val_f1=0.3796
+[loso_test_p2_val_p3] dgcnn_gru epoch 004/30 | train_loss=0.1371 | train_acc=0.9987 | val_f1=0.3508
+[loso_test_p2_val_p3] dgcnn_gru epoch 005/30 | train_loss=0.1351 | train_acc=0.9992 | val_f1=0.4490
+[loso_test_p2_val_p3] dgcnn_gru epoch 006/30 | train_loss=0.1349 | train_acc=0.9992 | val_f1=0.3439
+[loso_test_p2_val_p3] dgcnn_gru epoch 007/30 | train_loss=0.1340 | train_acc=0.9995 | val_f1=0.5066
+[loso_test_p2_val_p3] dgcnn_gru epoch 008/30 | train_loss=0.1332 | train_acc=0.9996 | val_f1=0.5179
+[loso_test_p2_val_p3] dgcnn_gru epoch 009/30 | train_loss=0.1332 | train_acc=0.9996 | val_f1=0.4902
+[loso_test_p2_val_p3] dgcnn_gru epoch 010/30 | train_loss=0.1325 | train_acc=0.9997 | val_f1=0.5151
+[loso_test_p2_val_p3] dgcnn_gru epoch 011/30 | train_loss=0.1327 | train_acc=0.9996 | val_f1=0.4621
+[loso_test_p2_val_p3] dgcnn_gru epoch 012/30 | train_loss=0.1320 | train_acc=0.9999 | val_f1=0.4857
+[loso_test_p2_val_p3] dgcnn_gru epoch 013/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.5242
+[loso_test_p2_val_p3] dgcnn_gru epoch 014/30 | train_loss=0.1319 | train_acc=0.9998 | val_f1=0.5348
+[loso_test_p2_val_p3] dgcnn_gru epoch 015/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.4488
+[loso_test_p2_val_p3] dgcnn_gru epoch 016/30 | train_loss=0.1319 | train_acc=0.9998 | val_f1=0.4839
+[loso_test_p2_val_p3] dgcnn_gru epoch 017/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.4952
+[loso_test_p2_val_p3] dgcnn_gru epoch 018/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.4421
+[loso_test_p2_val_p3] dgcnn_gru epoch 019/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.3826
+[loso_test_p2_val_p3] dgcnn_gru epoch 020/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.4278
+[loso_test_p2_val_p3] dgcnn_gru epoch 021/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.5380
+[loso_test_p2_val_p3] dgcnn_gru epoch 022/30 | train_loss=0.1312 | train_acc=0.9999 | val_f1=0.5068
+[loso_test_p2_val_p3] dgcnn_gru epoch 023/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.4687
+[loso_test_p2_val_p3] dgcnn_gru epoch 024/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.5100
+[loso_test_p2_val_p3] dgcnn_gru epoch 025/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4849
+[loso_test_p2_val_p3] dgcnn_gru epoch 026/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4760
+[loso_test_p2_val_p3] dgcnn_gru epoch 027/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4937
+[loso_test_p2_val_p3] dgcnn_gru epoch 028/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4843
+[loso_test_p2_val_p3] dgcnn_gru epoch 029/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4857
+[loso_test_p2_val_p3] dgcnn_gru epoch 030/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4730
+
+=== loso_test_p2_val_p3 | radar_stnet ===
+train=[1, 4, 5, 6, 7], val=[3], test=[2]
+[loso_test_p2_val_p3] radar_stnet epoch 001/30 | train_loss=0.2057 | train_acc=0.9791 | val_f1=0.6599
+[loso_test_p2_val_p3] radar_stnet epoch 002/30 | train_loss=0.1541 | train_acc=0.9958 | val_f1=0.6499
+[loso_test_p2_val_p3] radar_stnet epoch 003/30 | train_loss=0.1476 | train_acc=0.9971 | val_f1=0.7787
+[loso_test_p2_val_p3] radar_stnet epoch 004/30 | train_loss=0.1452 | train_acc=0.9978 | val_f1=0.6194
+[loso_test_p2_val_p3] radar_stnet epoch 005/30 | train_loss=0.1434 | train_acc=0.9981 | val_f1=0.7027
+[loso_test_p2_val_p3] radar_stnet epoch 006/30 | train_loss=0.1422 | train_acc=0.9985 | val_f1=0.7971
+[loso_test_p2_val_p3] radar_stnet epoch 007/30 | train_loss=0.1403 | train_acc=0.9988 | val_f1=0.6527
+[loso_test_p2_val_p3] radar_stnet epoch 008/30 | train_loss=0.1390 | train_acc=0.9990 | val_f1=0.7002
+[loso_test_p2_val_p3] radar_stnet epoch 009/30 | train_loss=0.1387 | train_acc=0.9991 | val_f1=0.6509
+[loso_test_p2_val_p3] radar_stnet epoch 010/30 | train_loss=0.1383 | train_acc=0.9992 | val_f1=0.6773
+[loso_test_p2_val_p3] radar_stnet epoch 011/30 | train_loss=0.1367 | train_acc=0.9994 | val_f1=0.6042
+[loso_test_p2_val_p3] radar_stnet epoch 012/30 | train_loss=0.1367 | train_acc=0.9994 | val_f1=0.7203
+[loso_test_p2_val_p3] radar_stnet epoch 013/30 | train_loss=0.1359 | train_acc=0.9995 | val_f1=0.7351
+[loso_test_p2_val_p3] radar_stnet epoch 014/30 | train_loss=0.1351 | train_acc=0.9997 | val_f1=0.7577
+[loso_test_p2_val_p3] radar_stnet epoch 015/30 | train_loss=0.1348 | train_acc=0.9997 | val_f1=0.7530
+[loso_test_p2_val_p3] radar_stnet epoch 016/30 | train_loss=0.1350 | train_acc=0.9997 | val_f1=0.7804
+[loso_test_p2_val_p3] radar_stnet epoch 017/30 | train_loss=0.1345 | train_acc=0.9998 | val_f1=0.7542
+[loso_test_p2_val_p3] radar_stnet epoch 018/30 | train_loss=0.1348 | train_acc=0.9997 | val_f1=0.7405
+[loso_test_p2_val_p3] radar_stnet epoch 019/30 | train_loss=0.1342 | train_acc=0.9999 | val_f1=0.7874
+[loso_test_p2_val_p3] radar_stnet epoch 020/30 | train_loss=0.1342 | train_acc=0.9998 | val_f1=0.7929
+[loso_test_p2_val_p3] radar_stnet epoch 021/30 | train_loss=0.1341 | train_acc=0.9999 | val_f1=0.8633
+[loso_test_p2_val_p3] radar_stnet epoch 022/30 | train_loss=0.1340 | train_acc=0.9999 | val_f1=0.7956
+[loso_test_p2_val_p3] radar_stnet epoch 023/30 | train_loss=0.1338 | train_acc=0.9999 | val_f1=0.7704
+[loso_test_p2_val_p3] radar_stnet epoch 024/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.8081
+[loso_test_p2_val_p3] radar_stnet epoch 025/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.7912
+[loso_test_p2_val_p3] radar_stnet epoch 026/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.8219
+[loso_test_p2_val_p3] radar_stnet epoch 027/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.8175
+[loso_test_p2_val_p3] radar_stnet epoch 028/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.8053
+[loso_test_p2_val_p3] radar_stnet epoch 029/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.8035
+[loso_test_p2_val_p3] radar_stnet epoch 030/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.8307
+
+=== loso_test_p3_val_p4 | stats_svm ===
+train=[1, 2, 5, 6, 7], val=[4], test=[3]
+
+=== loso_test_p3_val_p4 | stats_rf ===
+train=[1, 2, 5, 6, 7], val=[4], test=[3]
+
+=== loso_test_p3_val_p4 | stats_knn ===
+train=[1, 2, 5, 6, 7], val=[4], test=[3]
+
+=== loso_test_p3_val_p4 | pointnet_gru ===
+train=[1, 2, 5, 6, 7], val=[4], test=[3]
+[loso_test_p3_val_p4] pointnet_gru epoch 001/30 | train_loss=0.1833 | train_acc=0.9847 | val_f1=0.5333
+[loso_test_p3_val_p4] pointnet_gru epoch 002/30 | train_loss=0.1395 | train_acc=0.9979 | val_f1=0.4215
+[loso_test_p3_val_p4] pointnet_gru epoch 003/30 | train_loss=0.1380 | train_acc=0.9982 | val_f1=0.5278
+[loso_test_p3_val_p4] pointnet_gru epoch 004/30 | train_loss=0.1360 | train_acc=0.9988 | val_f1=0.3724
+[loso_test_p3_val_p4] pointnet_gru epoch 005/30 | train_loss=0.1346 | train_acc=0.9992 | val_f1=0.4913
+[loso_test_p3_val_p4] pointnet_gru epoch 006/30 | train_loss=0.1345 | train_acc=0.9991 | val_f1=0.4723
+[loso_test_p3_val_p4] pointnet_gru epoch 007/30 | train_loss=0.1338 | train_acc=0.9994 | val_f1=0.5889
+[loso_test_p3_val_p4] pointnet_gru epoch 008/30 | train_loss=0.1327 | train_acc=0.9996 | val_f1=0.4181
+[loso_test_p3_val_p4] pointnet_gru epoch 009/30 | train_loss=0.1330 | train_acc=0.9996 | val_f1=0.5686
+[loso_test_p3_val_p4] pointnet_gru epoch 010/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.4999
+[loso_test_p3_val_p4] pointnet_gru epoch 011/30 | train_loss=0.1324 | train_acc=0.9997 | val_f1=0.4423
+[loso_test_p3_val_p4] pointnet_gru epoch 012/30 | train_loss=0.1317 | train_acc=0.9999 | val_f1=0.5139
+[loso_test_p3_val_p4] pointnet_gru epoch 013/30 | train_loss=0.1320 | train_acc=0.9997 | val_f1=0.4882
+[loso_test_p3_val_p4] pointnet_gru epoch 014/30 | train_loss=0.1318 | train_acc=0.9998 | val_f1=0.5010
+[loso_test_p3_val_p4] pointnet_gru epoch 015/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.5433
+[loso_test_p3_val_p4] pointnet_gru epoch 016/30 | train_loss=0.1316 | train_acc=0.9998 | val_f1=0.4985
+[loso_test_p3_val_p4] pointnet_gru epoch 017/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.5453
+[loso_test_p3_val_p4] pointnet_gru epoch 018/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.5289
+[loso_test_p3_val_p4] pointnet_gru epoch 019/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.5548
+[loso_test_p3_val_p4] pointnet_gru epoch 020/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.5093
+[loso_test_p3_val_p4] pointnet_gru epoch 021/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.5252
+[loso_test_p3_val_p4] pointnet_gru epoch 022/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.5227
+[loso_test_p3_val_p4] pointnet_gru epoch 023/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.5315
+[loso_test_p3_val_p4] pointnet_gru epoch 024/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.5509
+[loso_test_p3_val_p4] pointnet_gru epoch 025/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.5156
+[loso_test_p3_val_p4] pointnet_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.5235
+[loso_test_p3_val_p4] pointnet_gru epoch 027/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.5074
+[loso_test_p3_val_p4] pointnet_gru epoch 028/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.5237
+[loso_test_p3_val_p4] pointnet_gru epoch 029/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.5353
+[loso_test_p3_val_p4] pointnet_gru epoch 030/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.5471
+
+=== loso_test_p3_val_p4 | pointnet_tcn ===
+train=[1, 2, 5, 6, 7], val=[4], test=[3]
+[loso_test_p3_val_p4] pointnet_tcn epoch 001/30 | train_loss=0.1801 | train_acc=0.9873 | val_f1=0.5130
+[loso_test_p3_val_p4] pointnet_tcn epoch 002/30 | train_loss=0.1422 | train_acc=0.9978 | val_f1=0.4999
+[loso_test_p3_val_p4] pointnet_tcn epoch 003/30 | train_loss=0.1386 | train_acc=0.9987 | val_f1=0.5274
+[loso_test_p3_val_p4] pointnet_tcn epoch 004/30 | train_loss=0.1376 | train_acc=0.9989 | val_f1=0.5675
+[loso_test_p3_val_p4] pointnet_tcn epoch 005/30 | train_loss=0.1366 | train_acc=0.9992 | val_f1=0.3896
+[loso_test_p3_val_p4] pointnet_tcn epoch 006/30 | train_loss=0.1359 | train_acc=0.9993 | val_f1=0.4725
+[loso_test_p3_val_p4] pointnet_tcn epoch 007/30 | train_loss=0.1352 | train_acc=0.9995 | val_f1=0.5290
+[loso_test_p3_val_p4] pointnet_tcn epoch 008/30 | train_loss=0.1345 | train_acc=0.9996 | val_f1=0.5318
+[loso_test_p3_val_p4] pointnet_tcn epoch 009/30 | train_loss=0.1350 | train_acc=0.9995 | val_f1=0.5624
+[loso_test_p3_val_p4] pointnet_tcn epoch 010/30 | train_loss=0.1344 | train_acc=0.9996 | val_f1=0.4610
+[loso_test_p3_val_p4] pointnet_tcn epoch 011/30 | train_loss=0.1341 | train_acc=0.9997 | val_f1=0.4804
+[loso_test_p3_val_p4] pointnet_tcn epoch 012/30 | train_loss=0.1341 | train_acc=0.9997 | val_f1=0.5686
+[loso_test_p3_val_p4] pointnet_tcn epoch 013/30 | train_loss=0.1337 | train_acc=0.9997 | val_f1=0.3840
+[loso_test_p3_val_p4] pointnet_tcn epoch 014/30 | train_loss=0.1333 | train_acc=0.9999 | val_f1=0.4304
+[loso_test_p3_val_p4] pointnet_tcn epoch 015/30 | train_loss=0.1335 | train_acc=0.9998 | val_f1=0.4019
+[loso_test_p3_val_p4] pointnet_tcn epoch 016/30 | train_loss=0.1333 | train_acc=0.9998 | val_f1=0.5498
+[loso_test_p3_val_p4] pointnet_tcn epoch 017/30 | train_loss=0.1330 | train_acc=0.9999 | val_f1=0.3864
+[loso_test_p3_val_p4] pointnet_tcn epoch 018/30 | train_loss=0.1331 | train_acc=0.9998 | val_f1=0.4023
+[loso_test_p3_val_p4] pointnet_tcn epoch 019/30 | train_loss=0.1331 | train_acc=0.9999 | val_f1=0.5198
+[loso_test_p3_val_p4] pointnet_tcn epoch 020/30 | train_loss=0.1327 | train_acc=1.0000 | val_f1=0.5453
+[loso_test_p3_val_p4] pointnet_tcn epoch 021/30 | train_loss=0.1327 | train_acc=1.0000 | val_f1=0.4805
+[loso_test_p3_val_p4] pointnet_tcn epoch 022/30 | train_loss=0.1328 | train_acc=0.9999 | val_f1=0.4540
+[loso_test_p3_val_p4] pointnet_tcn epoch 023/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.4571
+[loso_test_p3_val_p4] pointnet_tcn epoch 024/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.4662
+[loso_test_p3_val_p4] pointnet_tcn epoch 025/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.4714
+[loso_test_p3_val_p4] pointnet_tcn epoch 026/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.4540
+[loso_test_p3_val_p4] pointnet_tcn epoch 027/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.4371
+[loso_test_p3_val_p4] pointnet_tcn epoch 028/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.3881
+[loso_test_p3_val_p4] pointnet_tcn epoch 029/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.4218
+[loso_test_p3_val_p4] pointnet_tcn epoch 030/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.4163
+
+=== loso_test_p3_val_p4 | robhar_like ===
+train=[1, 2, 5, 6, 7], val=[4], test=[3]
+[loso_test_p3_val_p4] robhar_like epoch 001/30 | train_loss=0.1883 | train_acc=0.9825 | val_f1=0.4262
+[loso_test_p3_val_p4] robhar_like epoch 002/30 | train_loss=0.1414 | train_acc=0.9974 | val_f1=0.3624
+[loso_test_p3_val_p4] robhar_like epoch 003/30 | train_loss=0.1378 | train_acc=0.9984 | val_f1=0.4080
+[loso_test_p3_val_p4] robhar_like epoch 004/30 | train_loss=0.1367 | train_acc=0.9987 | val_f1=0.3998
+[loso_test_p3_val_p4] robhar_like epoch 005/30 | train_loss=0.1353 | train_acc=0.9991 | val_f1=0.4815
+[loso_test_p3_val_p4] robhar_like epoch 006/30 | train_loss=0.1344 | train_acc=0.9993 | val_f1=0.5303
+[loso_test_p3_val_p4] robhar_like epoch 007/30 | train_loss=0.1351 | train_acc=0.9991 | val_f1=0.5188
+[loso_test_p3_val_p4] robhar_like epoch 008/30 | train_loss=0.1334 | train_acc=0.9996 | val_f1=0.4386
+[loso_test_p3_val_p4] robhar_like epoch 009/30 | train_loss=0.1335 | train_acc=0.9995 | val_f1=0.4089
+[loso_test_p3_val_p4] robhar_like epoch 010/30 | train_loss=0.1333 | train_acc=0.9996 | val_f1=0.5260
+[loso_test_p3_val_p4] robhar_like epoch 011/30 | train_loss=0.1331 | train_acc=0.9996 | val_f1=0.4935
+[loso_test_p3_val_p4] robhar_like epoch 012/30 | train_loss=0.1326 | train_acc=0.9998 | val_f1=0.5317
+[loso_test_p3_val_p4] robhar_like epoch 013/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.5327
+[loso_test_p3_val_p4] robhar_like epoch 014/30 | train_loss=0.1321 | train_acc=0.9999 | val_f1=0.5220
+[loso_test_p3_val_p4] robhar_like epoch 015/30 | train_loss=0.1319 | train_acc=0.9999 | val_f1=0.4608
+[loso_test_p3_val_p4] robhar_like epoch 016/30 | train_loss=0.1321 | train_acc=0.9999 | val_f1=0.4407
+[loso_test_p3_val_p4] robhar_like epoch 017/30 | train_loss=0.1319 | train_acc=0.9999 | val_f1=0.3836
+[loso_test_p3_val_p4] robhar_like epoch 018/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.5286
+[loso_test_p3_val_p4] robhar_like epoch 019/30 | train_loss=0.1319 | train_acc=0.9999 | val_f1=0.4465
+[loso_test_p3_val_p4] robhar_like epoch 020/30 | train_loss=0.1317 | train_acc=1.0000 | val_f1=0.4908
+[loso_test_p3_val_p4] robhar_like epoch 021/30 | train_loss=0.1316 | train_acc=1.0000 | val_f1=0.5208
+[loso_test_p3_val_p4] robhar_like epoch 022/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.4924
+[loso_test_p3_val_p4] robhar_like epoch 023/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.4902
+[loso_test_p3_val_p4] robhar_like epoch 024/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.4505
+[loso_test_p3_val_p4] robhar_like epoch 025/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.4257
+[loso_test_p3_val_p4] robhar_like epoch 026/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.4880
+[loso_test_p3_val_p4] robhar_like epoch 027/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.4947
+[loso_test_p3_val_p4] robhar_like epoch 028/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.4771
+[loso_test_p3_val_p4] robhar_like epoch 029/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.4888
+[loso_test_p3_val_p4] robhar_like epoch 030/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.4854
+
+=== loso_test_p3_val_p4 | pct_gru ===
+train=[1, 2, 5, 6, 7], val=[4], test=[3]
+[loso_test_p3_val_p4] pct_gru epoch 001/30 | train_loss=0.2199 | train_acc=0.9698 | val_f1=0.4412
+[loso_test_p3_val_p4] pct_gru epoch 002/30 | train_loss=0.1448 | train_acc=0.9961 | val_f1=0.3847
+[loso_test_p3_val_p4] pct_gru epoch 003/30 | train_loss=0.1390 | train_acc=0.9979 | val_f1=0.4896
+[loso_test_p3_val_p4] pct_gru epoch 004/30 | train_loss=0.1353 | train_acc=0.9990 | val_f1=0.3698
+[loso_test_p3_val_p4] pct_gru epoch 005/30 | train_loss=0.1372 | train_acc=0.9984 | val_f1=0.5079
+[loso_test_p3_val_p4] pct_gru epoch 006/30 | train_loss=0.1346 | train_acc=0.9991 | val_f1=0.4482
+[loso_test_p3_val_p4] pct_gru epoch 007/30 | train_loss=0.1345 | train_acc=0.9992 | val_f1=0.4389
+[loso_test_p3_val_p4] pct_gru epoch 008/30 | train_loss=0.1328 | train_acc=0.9996 | val_f1=0.3218
+[loso_test_p3_val_p4] pct_gru epoch 009/30 | train_loss=0.1330 | train_acc=0.9995 | val_f1=0.3805
+[loso_test_p3_val_p4] pct_gru epoch 010/30 | train_loss=0.1326 | train_acc=0.9996 | val_f1=0.3697
+[loso_test_p3_val_p4] pct_gru epoch 011/30 | train_loss=0.1323 | train_acc=0.9997 | val_f1=0.4016
+[loso_test_p3_val_p4] pct_gru epoch 012/30 | train_loss=0.1324 | train_acc=0.9997 | val_f1=0.3523
+[loso_test_p3_val_p4] pct_gru epoch 013/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.4093
+[loso_test_p3_val_p4] pct_gru epoch 014/30 | train_loss=0.1318 | train_acc=0.9998 | val_f1=0.4689
+[loso_test_p3_val_p4] pct_gru epoch 015/30 | train_loss=0.1316 | train_acc=0.9998 | val_f1=0.4109
+[loso_test_p3_val_p4] pct_gru epoch 016/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.3808
+[loso_test_p3_val_p4] pct_gru epoch 017/30 | train_loss=0.1312 | train_acc=0.9999 | val_f1=0.3801
+[loso_test_p3_val_p4] pct_gru epoch 018/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.4783
+[loso_test_p3_val_p4] pct_gru epoch 019/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4511
+[loso_test_p3_val_p4] pct_gru epoch 020/30 | train_loss=0.1311 | train_acc=0.9999 | val_f1=0.4466
+[loso_test_p3_val_p4] pct_gru epoch 021/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4567
+[loso_test_p3_val_p4] pct_gru epoch 022/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.4933
+[loso_test_p3_val_p4] pct_gru epoch 023/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4602
+[loso_test_p3_val_p4] pct_gru epoch 024/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4403
+[loso_test_p3_val_p4] pct_gru epoch 025/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4440
+[loso_test_p3_val_p4] pct_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3967
+[loso_test_p3_val_p4] pct_gru epoch 027/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.4115
+[loso_test_p3_val_p4] pct_gru epoch 028/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.3953
+[loso_test_p3_val_p4] pct_gru epoch 029/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.4025
+[loso_test_p3_val_p4] pct_gru epoch 030/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.4043
+
+=== loso_test_p3_val_p4 | dgcnn_gru ===
+train=[1, 2, 5, 6, 7], val=[4], test=[3]
+[loso_test_p3_val_p4] dgcnn_gru epoch 001/30 | train_loss=0.2070 | train_acc=0.9768 | val_f1=0.3307
+[loso_test_p3_val_p4] dgcnn_gru epoch 002/30 | train_loss=0.1426 | train_acc=0.9973 | val_f1=0.3701
+[loso_test_p3_val_p4] dgcnn_gru epoch 003/30 | train_loss=0.1387 | train_acc=0.9982 | val_f1=0.4987
+[loso_test_p3_val_p4] dgcnn_gru epoch 004/30 | train_loss=0.1370 | train_acc=0.9987 | val_f1=0.4960
+[loso_test_p3_val_p4] dgcnn_gru epoch 005/30 | train_loss=0.1354 | train_acc=0.9991 | val_f1=0.6175
+[loso_test_p3_val_p4] dgcnn_gru epoch 006/30 | train_loss=0.1345 | train_acc=0.9993 | val_f1=0.5828
+[loso_test_p3_val_p4] dgcnn_gru epoch 007/30 | train_loss=0.1343 | train_acc=0.9994 | val_f1=0.5254
+[loso_test_p3_val_p4] dgcnn_gru epoch 008/30 | train_loss=0.1340 | train_acc=0.9994 | val_f1=0.5574
+[loso_test_p3_val_p4] dgcnn_gru epoch 009/30 | train_loss=0.1338 | train_acc=0.9995 | val_f1=0.5078
+[loso_test_p3_val_p4] dgcnn_gru epoch 010/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.5185
+[loso_test_p3_val_p4] dgcnn_gru epoch 011/30 | train_loss=0.1330 | train_acc=0.9996 | val_f1=0.5338
+[loso_test_p3_val_p4] dgcnn_gru epoch 012/30 | train_loss=0.1323 | train_acc=0.9998 | val_f1=0.4909
+[loso_test_p3_val_p4] dgcnn_gru epoch 013/30 | train_loss=0.1322 | train_acc=0.9998 | val_f1=0.4937
+[loso_test_p3_val_p4] dgcnn_gru epoch 014/30 | train_loss=0.1319 | train_acc=0.9998 | val_f1=0.4847
+[loso_test_p3_val_p4] dgcnn_gru epoch 015/30 | train_loss=0.1317 | train_acc=0.9999 | val_f1=0.4240
+[loso_test_p3_val_p4] dgcnn_gru epoch 016/30 | train_loss=0.1317 | train_acc=0.9999 | val_f1=0.5032
+[loso_test_p3_val_p4] dgcnn_gru epoch 017/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.4820
+[loso_test_p3_val_p4] dgcnn_gru epoch 018/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.5280
+[loso_test_p3_val_p4] dgcnn_gru epoch 019/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.5138
+[loso_test_p3_val_p4] dgcnn_gru epoch 020/30 | train_loss=0.1313 | train_acc=1.0000 | val_f1=0.4447
+[loso_test_p3_val_p4] dgcnn_gru epoch 021/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.5049
+[loso_test_p3_val_p4] dgcnn_gru epoch 022/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.5073
+[loso_test_p3_val_p4] dgcnn_gru epoch 023/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.5127
+[loso_test_p3_val_p4] dgcnn_gru epoch 024/30 | train_loss=0.1312 | train_acc=0.9999 | val_f1=0.5303
+[loso_test_p3_val_p4] dgcnn_gru epoch 025/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.5099
+[loso_test_p3_val_p4] dgcnn_gru epoch 026/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.5121
+[loso_test_p3_val_p4] dgcnn_gru epoch 027/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.5137
+[loso_test_p3_val_p4] dgcnn_gru epoch 028/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.5146
+[loso_test_p3_val_p4] dgcnn_gru epoch 029/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.5195
+[loso_test_p3_val_p4] dgcnn_gru epoch 030/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.5182
+
+=== loso_test_p3_val_p4 | radar_stnet ===
+train=[1, 2, 5, 6, 7], val=[4], test=[3]
+[loso_test_p3_val_p4] radar_stnet epoch 001/30 | train_loss=0.2087 | train_acc=0.9777 | val_f1=0.4604
+[loso_test_p3_val_p4] radar_stnet epoch 002/30 | train_loss=0.1550 | train_acc=0.9953 | val_f1=0.5022
+[loso_test_p3_val_p4] radar_stnet epoch 003/30 | train_loss=0.1471 | train_acc=0.9974 | val_f1=0.5419
+[loso_test_p3_val_p4] radar_stnet epoch 004/30 | train_loss=0.1459 | train_acc=0.9977 | val_f1=0.5348
+[loso_test_p3_val_p4] radar_stnet epoch 005/30 | train_loss=0.1428 | train_acc=0.9984 | val_f1=0.5317
+[loso_test_p3_val_p4] radar_stnet epoch 006/30 | train_loss=0.1425 | train_acc=0.9985 | val_f1=0.4573
+[loso_test_p3_val_p4] radar_stnet epoch 007/30 | train_loss=0.1414 | train_acc=0.9985 | val_f1=0.4842
+[loso_test_p3_val_p4] radar_stnet epoch 008/30 | train_loss=0.1407 | train_acc=0.9988 | val_f1=0.3682
+[loso_test_p3_val_p4] radar_stnet epoch 009/30 | train_loss=0.1393 | train_acc=0.9990 | val_f1=0.4652
+[loso_test_p3_val_p4] radar_stnet epoch 010/30 | train_loss=0.1383 | train_acc=0.9992 | val_f1=0.3647
+[loso_test_p3_val_p4] radar_stnet epoch 011/30 | train_loss=0.1381 | train_acc=0.9991 | val_f1=0.3982
+[loso_test_p3_val_p4] radar_stnet epoch 012/30 | train_loss=0.1369 | train_acc=0.9994 | val_f1=0.3918
+[loso_test_p3_val_p4] radar_stnet epoch 013/30 | train_loss=0.1358 | train_acc=0.9996 | val_f1=0.3950
+[loso_test_p3_val_p4] radar_stnet epoch 014/30 | train_loss=0.1359 | train_acc=0.9995 | val_f1=0.3991
+[loso_test_p3_val_p4] radar_stnet epoch 015/30 | train_loss=0.1352 | train_acc=0.9996 | val_f1=0.4069
+[loso_test_p3_val_p4] radar_stnet epoch 016/30 | train_loss=0.1352 | train_acc=0.9997 | val_f1=0.4384
+[loso_test_p3_val_p4] radar_stnet epoch 017/30 | train_loss=0.1351 | train_acc=0.9997 | val_f1=0.4238
+[loso_test_p3_val_p4] radar_stnet epoch 018/30 | train_loss=0.1344 | train_acc=0.9998 | val_f1=0.3902
+[loso_test_p3_val_p4] radar_stnet epoch 019/30 | train_loss=0.1342 | train_acc=0.9999 | val_f1=0.3979
+[loso_test_p3_val_p4] radar_stnet epoch 020/30 | train_loss=0.1342 | train_acc=0.9999 | val_f1=0.3768
+[loso_test_p3_val_p4] radar_stnet epoch 021/30 | train_loss=0.1341 | train_acc=0.9999 | val_f1=0.4235
+[loso_test_p3_val_p4] radar_stnet epoch 022/30 | train_loss=0.1341 | train_acc=0.9999 | val_f1=0.4935
+[loso_test_p3_val_p4] radar_stnet epoch 023/30 | train_loss=0.1340 | train_acc=0.9999 | val_f1=0.4391
+[loso_test_p3_val_p4] radar_stnet epoch 024/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.4803
+[loso_test_p3_val_p4] radar_stnet epoch 025/30 | train_loss=0.1338 | train_acc=1.0000 | val_f1=0.4764
+[loso_test_p3_val_p4] radar_stnet epoch 026/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.4557
+[loso_test_p3_val_p4] radar_stnet epoch 027/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.4293
+[loso_test_p3_val_p4] radar_stnet epoch 028/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.4530
+[loso_test_p3_val_p4] radar_stnet epoch 029/30 | train_loss=0.1335 | train_acc=1.0000 | val_f1=0.4519
+[loso_test_p3_val_p4] radar_stnet epoch 030/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.4416
+
+=== loso_test_p4_val_p5 | stats_svm ===
+train=[1, 2, 3, 6, 7], val=[5], test=[4]
+
+=== loso_test_p4_val_p5 | stats_rf ===
+train=[1, 2, 3, 6, 7], val=[5], test=[4]
+
+=== loso_test_p4_val_p5 | stats_knn ===
+train=[1, 2, 3, 6, 7], val=[5], test=[4]
+
+=== loso_test_p4_val_p5 | pointnet_gru ===
+train=[1, 2, 3, 6, 7], val=[5], test=[4]
+[loso_test_p4_val_p5] pointnet_gru epoch 001/30 | train_loss=0.1880 | train_acc=0.9828 | val_f1=0.9240
+[loso_test_p4_val_p5] pointnet_gru epoch 002/30 | train_loss=0.1423 | train_acc=0.9972 | val_f1=0.9342
+[loso_test_p4_val_p5] pointnet_gru epoch 003/30 | train_loss=0.1381 | train_acc=0.9982 | val_f1=0.9573
+[loso_test_p4_val_p5] pointnet_gru epoch 004/30 | train_loss=0.1355 | train_acc=0.9989 | val_f1=0.8840
+[loso_test_p4_val_p5] pointnet_gru epoch 005/30 | train_loss=0.1353 | train_acc=0.9990 | val_f1=0.9456
+[loso_test_p4_val_p5] pointnet_gru epoch 006/30 | train_loss=0.1345 | train_acc=0.9992 | val_f1=0.9223
+[loso_test_p4_val_p5] pointnet_gru epoch 007/30 | train_loss=0.1331 | train_acc=0.9996 | val_f1=0.9046
+[loso_test_p4_val_p5] pointnet_gru epoch 008/30 | train_loss=0.1333 | train_acc=0.9995 | val_f1=0.9208
+[loso_test_p4_val_p5] pointnet_gru epoch 009/30 | train_loss=0.1324 | train_acc=0.9997 | val_f1=0.9331
+[loso_test_p4_val_p5] pointnet_gru epoch 010/30 | train_loss=0.1328 | train_acc=0.9996 | val_f1=0.9147
+[loso_test_p4_val_p5] pointnet_gru epoch 011/30 | train_loss=0.1325 | train_acc=0.9996 | val_f1=0.9159
+[loso_test_p4_val_p5] pointnet_gru epoch 012/30 | train_loss=0.1325 | train_acc=0.9996 | val_f1=0.9545
+[loso_test_p4_val_p5] pointnet_gru epoch 013/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.9375
+[loso_test_p4_val_p5] pointnet_gru epoch 014/30 | train_loss=0.1321 | train_acc=0.9997 | val_f1=0.9254
+[loso_test_p4_val_p5] pointnet_gru epoch 015/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.9248
+[loso_test_p4_val_p5] pointnet_gru epoch 016/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.9150
+[loso_test_p4_val_p5] pointnet_gru epoch 017/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.9235
+[loso_test_p4_val_p5] pointnet_gru epoch 018/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.9151
+[loso_test_p4_val_p5] pointnet_gru epoch 019/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9193
+[loso_test_p4_val_p5] pointnet_gru epoch 020/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.9066
+[loso_test_p4_val_p5] pointnet_gru epoch 021/30 | train_loss=0.1312 | train_acc=0.9999 | val_f1=0.9263
+[loso_test_p4_val_p5] pointnet_gru epoch 022/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9212
+[loso_test_p4_val_p5] pointnet_gru epoch 023/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9256
+[loso_test_p4_val_p5] pointnet_gru epoch 024/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9191
+[loso_test_p4_val_p5] pointnet_gru epoch 025/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9323
+[loso_test_p4_val_p5] pointnet_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.9207
+[loso_test_p4_val_p5] pointnet_gru epoch 027/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.9053
+[loso_test_p4_val_p5] pointnet_gru epoch 028/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.9193
+[loso_test_p4_val_p5] pointnet_gru epoch 029/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.9162
+[loso_test_p4_val_p5] pointnet_gru epoch 030/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.9208
+
+=== loso_test_p4_val_p5 | pointnet_tcn ===
+train=[1, 2, 3, 6, 7], val=[5], test=[4]
+[loso_test_p4_val_p5] pointnet_tcn epoch 001/30 | train_loss=0.1796 | train_acc=0.9876 | val_f1=0.9747
+[loso_test_p4_val_p5] pointnet_tcn epoch 002/30 | train_loss=0.1407 | train_acc=0.9982 | val_f1=0.8781
+[loso_test_p4_val_p5] pointnet_tcn epoch 003/30 | train_loss=0.1387 | train_acc=0.9987 | val_f1=0.9517
+[loso_test_p4_val_p5] pointnet_tcn epoch 004/30 | train_loss=0.1370 | train_acc=0.9991 | val_f1=0.9343
+[loso_test_p4_val_p5] pointnet_tcn epoch 005/30 | train_loss=0.1361 | train_acc=0.9993 | val_f1=0.9827
+[loso_test_p4_val_p5] pointnet_tcn epoch 006/30 | train_loss=0.1357 | train_acc=0.9993 | val_f1=0.9637
+[loso_test_p4_val_p5] pointnet_tcn epoch 007/30 | train_loss=0.1349 | train_acc=0.9995 | val_f1=0.9602
+[loso_test_p4_val_p5] pointnet_tcn epoch 008/30 | train_loss=0.1348 | train_acc=0.9996 | val_f1=0.9298
+[loso_test_p4_val_p5] pointnet_tcn epoch 009/30 | train_loss=0.1345 | train_acc=0.9996 | val_f1=0.9624
+[loso_test_p4_val_p5] pointnet_tcn epoch 010/30 | train_loss=0.1342 | train_acc=0.9997 | val_f1=0.9659
+[loso_test_p4_val_p5] pointnet_tcn epoch 011/30 | train_loss=0.1341 | train_acc=0.9997 | val_f1=0.9811
+[loso_test_p4_val_p5] pointnet_tcn epoch 012/30 | train_loss=0.1338 | train_acc=0.9997 | val_f1=0.9546
+[loso_test_p4_val_p5] pointnet_tcn epoch 013/30 | train_loss=0.1337 | train_acc=0.9998 | val_f1=0.9642
+[loso_test_p4_val_p5] pointnet_tcn epoch 014/30 | train_loss=0.1333 | train_acc=0.9999 | val_f1=0.9566
+[loso_test_p4_val_p5] pointnet_tcn epoch 015/30 | train_loss=0.1334 | train_acc=0.9998 | val_f1=0.9779
+[loso_test_p4_val_p5] pointnet_tcn epoch 016/30 | train_loss=0.1332 | train_acc=0.9998 | val_f1=0.9742
+[loso_test_p4_val_p5] pointnet_tcn epoch 017/30 | train_loss=0.1330 | train_acc=0.9999 | val_f1=0.9670
+[loso_test_p4_val_p5] pointnet_tcn epoch 018/30 | train_loss=0.1329 | train_acc=0.9999 | val_f1=0.9846
+[loso_test_p4_val_p5] pointnet_tcn epoch 019/30 | train_loss=0.1329 | train_acc=0.9999 | val_f1=0.9805
+[loso_test_p4_val_p5] pointnet_tcn epoch 020/30 | train_loss=0.1328 | train_acc=0.9999 | val_f1=0.9844
+[loso_test_p4_val_p5] pointnet_tcn epoch 021/30 | train_loss=0.1327 | train_acc=0.9999 | val_f1=0.9610
+[loso_test_p4_val_p5] pointnet_tcn epoch 022/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.9736
+[loso_test_p4_val_p5] pointnet_tcn epoch 023/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.9782
+[loso_test_p4_val_p5] pointnet_tcn epoch 024/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.9729
+[loso_test_p4_val_p5] pointnet_tcn epoch 025/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.9792
+[loso_test_p4_val_p5] pointnet_tcn epoch 026/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.9817
+[loso_test_p4_val_p5] pointnet_tcn epoch 027/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.9809
+[loso_test_p4_val_p5] pointnet_tcn epoch 028/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.9742
+[loso_test_p4_val_p5] pointnet_tcn epoch 029/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.9677
+[loso_test_p4_val_p5] pointnet_tcn epoch 030/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.9800
+
+=== loso_test_p4_val_p5 | robhar_like ===
+train=[1, 2, 3, 6, 7], val=[5], test=[4]
+[loso_test_p4_val_p5] robhar_like epoch 001/30 | train_loss=0.1870 | train_acc=0.9832 | val_f1=0.8929
+[loso_test_p4_val_p5] robhar_like epoch 002/30 | train_loss=0.1407 | train_acc=0.9975 | val_f1=0.8582
+[loso_test_p4_val_p5] robhar_like epoch 003/30 | train_loss=0.1381 | train_acc=0.9982 | val_f1=0.8612
+[loso_test_p4_val_p5] robhar_like epoch 004/30 | train_loss=0.1366 | train_acc=0.9987 | val_f1=0.9145
+[loso_test_p4_val_p5] robhar_like epoch 005/30 | train_loss=0.1357 | train_acc=0.9989 | val_f1=0.9187
+[loso_test_p4_val_p5] robhar_like epoch 006/30 | train_loss=0.1348 | train_acc=0.9993 | val_f1=0.9533
+[loso_test_p4_val_p5] robhar_like epoch 007/30 | train_loss=0.1341 | train_acc=0.9994 | val_f1=0.9229
+[loso_test_p4_val_p5] robhar_like epoch 008/30 | train_loss=0.1340 | train_acc=0.9994 | val_f1=0.9291
+[loso_test_p4_val_p5] robhar_like epoch 009/30 | train_loss=0.1337 | train_acc=0.9995 | val_f1=0.9553
+[loso_test_p4_val_p5] robhar_like epoch 010/30 | train_loss=0.1335 | train_acc=0.9996 | val_f1=0.9006
+[loso_test_p4_val_p5] robhar_like epoch 011/30 | train_loss=0.1328 | train_acc=0.9997 | val_f1=0.8768
+[loso_test_p4_val_p5] robhar_like epoch 012/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.9245
+[loso_test_p4_val_p5] robhar_like epoch 013/30 | train_loss=0.1323 | train_acc=0.9998 | val_f1=0.9251
+[loso_test_p4_val_p5] robhar_like epoch 014/30 | train_loss=0.1324 | train_acc=0.9998 | val_f1=0.9319
+[loso_test_p4_val_p5] robhar_like epoch 015/30 | train_loss=0.1325 | train_acc=0.9997 | val_f1=0.9254
+[loso_test_p4_val_p5] robhar_like epoch 016/30 | train_loss=0.1318 | train_acc=1.0000 | val_f1=0.9478
+[loso_test_p4_val_p5] robhar_like epoch 017/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.9012
+[loso_test_p4_val_p5] robhar_like epoch 018/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.9300
+[loso_test_p4_val_p5] robhar_like epoch 019/30 | train_loss=0.1317 | train_acc=0.9999 | val_f1=0.9001
+[loso_test_p4_val_p5] robhar_like epoch 020/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.9069
+[loso_test_p4_val_p5] robhar_like epoch 021/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.9232
+[loso_test_p4_val_p5] robhar_like epoch 022/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.9151
+[loso_test_p4_val_p5] robhar_like epoch 023/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.9288
+[loso_test_p4_val_p5] robhar_like epoch 024/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.9203
+[loso_test_p4_val_p5] robhar_like epoch 025/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.9335
+[loso_test_p4_val_p5] robhar_like epoch 026/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.9383
+[loso_test_p4_val_p5] robhar_like epoch 027/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.9177
+[loso_test_p4_val_p5] robhar_like epoch 028/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.9347
+[loso_test_p4_val_p5] robhar_like epoch 029/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.9203
+[loso_test_p4_val_p5] robhar_like epoch 030/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.9308
+
+=== loso_test_p4_val_p5 | pct_gru ===
+train=[1, 2, 3, 6, 7], val=[5], test=[4]
+[loso_test_p4_val_p5] pct_gru epoch 001/30 | train_loss=0.2278 | train_acc=0.9663 | val_f1=0.8696
+[loso_test_p4_val_p5] pct_gru epoch 002/30 | train_loss=0.1441 | train_acc=0.9965 | val_f1=0.8676
+[loso_test_p4_val_p5] pct_gru epoch 003/30 | train_loss=0.1402 | train_acc=0.9974 | val_f1=0.9291
+[loso_test_p4_val_p5] pct_gru epoch 004/30 | train_loss=0.1373 | train_acc=0.9983 | val_f1=0.8482
+[loso_test_p4_val_p5] pct_gru epoch 005/30 | train_loss=0.1362 | train_acc=0.9987 | val_f1=0.8735
+[loso_test_p4_val_p5] pct_gru epoch 006/30 | train_loss=0.1347 | train_acc=0.9991 | val_f1=0.9191
+[loso_test_p4_val_p5] pct_gru epoch 007/30 | train_loss=0.1336 | train_acc=0.9994 | val_f1=0.9146
+[loso_test_p4_val_p5] pct_gru epoch 008/30 | train_loss=0.1344 | train_acc=0.9991 | val_f1=0.9463
+[loso_test_p4_val_p5] pct_gru epoch 009/30 | train_loss=0.1328 | train_acc=0.9996 | val_f1=0.8570
+[loso_test_p4_val_p5] pct_gru epoch 010/30 | train_loss=0.1331 | train_acc=0.9996 | val_f1=0.9493
+[loso_test_p4_val_p5] pct_gru epoch 011/30 | train_loss=0.1318 | train_acc=0.9998 | val_f1=0.8978
+[loso_test_p4_val_p5] pct_gru epoch 012/30 | train_loss=0.1326 | train_acc=0.9996 | val_f1=0.8782
+[loso_test_p4_val_p5] pct_gru epoch 013/30 | train_loss=0.1325 | train_acc=0.9996 | val_f1=0.8942
+[loso_test_p4_val_p5] pct_gru epoch 014/30 | train_loss=0.1317 | train_acc=0.9998 | val_f1=0.9479
+[loso_test_p4_val_p5] pct_gru epoch 015/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.9291
+[loso_test_p4_val_p5] pct_gru epoch 016/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.9140
+[loso_test_p4_val_p5] pct_gru epoch 017/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.9492
+[loso_test_p4_val_p5] pct_gru epoch 018/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.8984
+[loso_test_p4_val_p5] pct_gru epoch 019/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9292
+[loso_test_p4_val_p5] pct_gru epoch 020/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9308
+[loso_test_p4_val_p5] pct_gru epoch 021/30 | train_loss=0.1312 | train_acc=0.9999 | val_f1=0.9264
+[loso_test_p4_val_p5] pct_gru epoch 022/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.9190
+[loso_test_p4_val_p5] pct_gru epoch 023/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.9410
+[loso_test_p4_val_p5] pct_gru epoch 024/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.9259
+[loso_test_p4_val_p5] pct_gru epoch 025/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9290
+[loso_test_p4_val_p5] pct_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.9296
+[loso_test_p4_val_p5] pct_gru epoch 027/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.9322
+[loso_test_p4_val_p5] pct_gru epoch 028/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.9329
+[loso_test_p4_val_p5] pct_gru epoch 029/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.9288
+[loso_test_p4_val_p5] pct_gru epoch 030/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.9300
+
+=== loso_test_p4_val_p5 | dgcnn_gru ===
+train=[1, 2, 3, 6, 7], val=[5], test=[4]
+[loso_test_p4_val_p5] dgcnn_gru epoch 001/30 | train_loss=0.2103 | train_acc=0.9757 | val_f1=0.9170
+[loso_test_p4_val_p5] dgcnn_gru epoch 002/30 | train_loss=0.1421 | train_acc=0.9974 | val_f1=0.9658
+[loso_test_p4_val_p5] dgcnn_gru epoch 003/30 | train_loss=0.1385 | train_acc=0.9984 | val_f1=0.9493
+[loso_test_p4_val_p5] dgcnn_gru epoch 004/30 | train_loss=0.1366 | train_acc=0.9988 | val_f1=0.9533
+[loso_test_p4_val_p5] dgcnn_gru epoch 005/30 | train_loss=0.1357 | train_acc=0.9991 | val_f1=0.9536
+[loso_test_p4_val_p5] dgcnn_gru epoch 006/30 | train_loss=0.1349 | train_acc=0.9992 | val_f1=0.9157
+[loso_test_p4_val_p5] dgcnn_gru epoch 007/30 | train_loss=0.1338 | train_acc=0.9994 | val_f1=0.9579
+[loso_test_p4_val_p5] dgcnn_gru epoch 008/30 | train_loss=0.1339 | train_acc=0.9994 | val_f1=0.9599
+[loso_test_p4_val_p5] dgcnn_gru epoch 009/30 | train_loss=0.1335 | train_acc=0.9995 | val_f1=0.9502
+[loso_test_p4_val_p5] dgcnn_gru epoch 010/30 | train_loss=0.1329 | train_acc=0.9996 | val_f1=0.9651
+[loso_test_p4_val_p5] dgcnn_gru epoch 011/30 | train_loss=0.1330 | train_acc=0.9996 | val_f1=0.9551
+[loso_test_p4_val_p5] dgcnn_gru epoch 012/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.9257
+[loso_test_p4_val_p5] dgcnn_gru epoch 013/30 | train_loss=0.1321 | train_acc=0.9998 | val_f1=0.9795
+[loso_test_p4_val_p5] dgcnn_gru epoch 014/30 | train_loss=0.1321 | train_acc=0.9998 | val_f1=0.9330
+[loso_test_p4_val_p5] dgcnn_gru epoch 015/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.9391
+[loso_test_p4_val_p5] dgcnn_gru epoch 016/30 | train_loss=0.1320 | train_acc=0.9998 | val_f1=0.9476
+[loso_test_p4_val_p5] dgcnn_gru epoch 017/30 | train_loss=0.1317 | train_acc=0.9999 | val_f1=0.9427
+[loso_test_p4_val_p5] dgcnn_gru epoch 018/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.9518
+[loso_test_p4_val_p5] dgcnn_gru epoch 019/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.9556
+[loso_test_p4_val_p5] dgcnn_gru epoch 020/30 | train_loss=0.1313 | train_acc=1.0000 | val_f1=0.9600
+[loso_test_p4_val_p5] dgcnn_gru epoch 021/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.9624
+[loso_test_p4_val_p5] dgcnn_gru epoch 022/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.9557
+[loso_test_p4_val_p5] dgcnn_gru epoch 023/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.9694
+[loso_test_p4_val_p5] dgcnn_gru epoch 024/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.9640
+[loso_test_p4_val_p5] dgcnn_gru epoch 025/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9565
+[loso_test_p4_val_p5] dgcnn_gru epoch 026/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9603
+[loso_test_p4_val_p5] dgcnn_gru epoch 027/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9687
+[loso_test_p4_val_p5] dgcnn_gru epoch 028/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9609
+[loso_test_p4_val_p5] dgcnn_gru epoch 029/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9593
+[loso_test_p4_val_p5] dgcnn_gru epoch 030/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9559
+
+=== loso_test_p4_val_p5 | radar_stnet ===
+train=[1, 2, 3, 6, 7], val=[5], test=[4]
+[loso_test_p4_val_p5] radar_stnet epoch 001/30 | train_loss=0.2147 | train_acc=0.9765 | val_f1=0.9803
+[loso_test_p4_val_p5] radar_stnet epoch 002/30 | train_loss=0.1551 | train_acc=0.9953 | val_f1=0.9582
+[loso_test_p4_val_p5] radar_stnet epoch 003/30 | train_loss=0.1493 | train_acc=0.9967 | val_f1=0.9423
+[loso_test_p4_val_p5] radar_stnet epoch 004/30 | train_loss=0.1453 | train_acc=0.9978 | val_f1=0.9673
+[loso_test_p4_val_p5] radar_stnet epoch 005/30 | train_loss=0.1435 | train_acc=0.9982 | val_f1=0.9329
+[loso_test_p4_val_p5] radar_stnet epoch 006/30 | train_loss=0.1416 | train_acc=0.9986 | val_f1=0.9521
+[loso_test_p4_val_p5] radar_stnet epoch 007/30 | train_loss=0.1400 | train_acc=0.9989 | val_f1=0.9900
+[loso_test_p4_val_p5] radar_stnet epoch 008/30 | train_loss=0.1395 | train_acc=0.9989 | val_f1=0.9593
+[loso_test_p4_val_p5] radar_stnet epoch 009/30 | train_loss=0.1392 | train_acc=0.9990 | val_f1=0.9863
+[loso_test_p4_val_p5] radar_stnet epoch 010/30 | train_loss=0.1375 | train_acc=0.9994 | val_f1=0.9322
+[loso_test_p4_val_p5] radar_stnet epoch 011/30 | train_loss=0.1371 | train_acc=0.9994 | val_f1=0.9627
+[loso_test_p4_val_p5] radar_stnet epoch 012/30 | train_loss=0.1365 | train_acc=0.9994 | val_f1=0.9801
+[loso_test_p4_val_p5] radar_stnet epoch 013/30 | train_loss=0.1358 | train_acc=0.9995 | val_f1=0.9718
+[loso_test_p4_val_p5] radar_stnet epoch 014/30 | train_loss=0.1355 | train_acc=0.9996 | val_f1=0.9845
+[loso_test_p4_val_p5] radar_stnet epoch 015/30 | train_loss=0.1350 | train_acc=0.9997 | val_f1=0.9699
+[loso_test_p4_val_p5] radar_stnet epoch 016/30 | train_loss=0.1347 | train_acc=0.9997 | val_f1=0.9280
+[loso_test_p4_val_p5] radar_stnet epoch 017/30 | train_loss=0.1345 | train_acc=0.9998 | val_f1=0.9669
+[loso_test_p4_val_p5] radar_stnet epoch 018/30 | train_loss=0.1342 | train_acc=0.9998 | val_f1=0.9345
+[loso_test_p4_val_p5] radar_stnet epoch 019/30 | train_loss=0.1341 | train_acc=0.9999 | val_f1=0.9753
+[loso_test_p4_val_p5] radar_stnet epoch 020/30 | train_loss=0.1340 | train_acc=0.9999 | val_f1=0.9594
+[loso_test_p4_val_p5] radar_stnet epoch 021/30 | train_loss=0.1339 | train_acc=0.9999 | val_f1=0.9671
+[loso_test_p4_val_p5] radar_stnet epoch 022/30 | train_loss=0.1339 | train_acc=0.9999 | val_f1=0.9416
+[loso_test_p4_val_p5] radar_stnet epoch 023/30 | train_loss=0.1338 | train_acc=1.0000 | val_f1=0.9415
+[loso_test_p4_val_p5] radar_stnet epoch 024/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.9625
+[loso_test_p4_val_p5] radar_stnet epoch 025/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.9673
+[loso_test_p4_val_p5] radar_stnet epoch 026/30 | train_loss=0.1338 | train_acc=1.0000 | val_f1=0.9675
+[loso_test_p4_val_p5] radar_stnet epoch 027/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.9706
+[loso_test_p4_val_p5] radar_stnet epoch 028/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.9742
+[loso_test_p4_val_p5] radar_stnet epoch 029/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.9686
+[loso_test_p4_val_p5] radar_stnet epoch 030/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.9598
+
+=== loso_test_p5_val_p6 | stats_svm ===
+train=[1, 2, 3, 4, 7], val=[6], test=[5]
+
+=== loso_test_p5_val_p6 | stats_rf ===
+train=[1, 2, 3, 4, 7], val=[6], test=[5]
+
+=== loso_test_p5_val_p6 | stats_knn ===
+train=[1, 2, 3, 4, 7], val=[6], test=[5]
+
+=== loso_test_p5_val_p6 | pointnet_gru ===
+train=[1, 2, 3, 4, 7], val=[6], test=[5]
+[loso_test_p5_val_p6] pointnet_gru epoch 001/30 | train_loss=0.1888 | train_acc=0.9828 | val_f1=0.6479
+[loso_test_p5_val_p6] pointnet_gru epoch 002/30 | train_loss=0.1415 | train_acc=0.9973 | val_f1=0.7534
+[loso_test_p5_val_p6] pointnet_gru epoch 003/30 | train_loss=0.1384 | train_acc=0.9982 | val_f1=0.6848
+[loso_test_p5_val_p6] pointnet_gru epoch 004/30 | train_loss=0.1373 | train_acc=0.9985 | val_f1=0.6996
+[loso_test_p5_val_p6] pointnet_gru epoch 005/30 | train_loss=0.1359 | train_acc=0.9989 | val_f1=0.7939
+[loso_test_p5_val_p6] pointnet_gru epoch 006/30 | train_loss=0.1343 | train_acc=0.9993 | val_f1=0.6038
+[loso_test_p5_val_p6] pointnet_gru epoch 007/30 | train_loss=0.1339 | train_acc=0.9994 | val_f1=0.7148
+[loso_test_p5_val_p6] pointnet_gru epoch 008/30 | train_loss=0.1335 | train_acc=0.9994 | val_f1=0.5943
+[loso_test_p5_val_p6] pointnet_gru epoch 009/30 | train_loss=0.1328 | train_acc=0.9996 | val_f1=0.6692
+[loso_test_p5_val_p6] pointnet_gru epoch 010/30 | train_loss=0.1330 | train_acc=0.9996 | val_f1=0.7232
+[loso_test_p5_val_p6] pointnet_gru epoch 011/30 | train_loss=0.1328 | train_acc=0.9995 | val_f1=0.7797
+[loso_test_p5_val_p6] pointnet_gru epoch 012/30 | train_loss=0.1319 | train_acc=0.9998 | val_f1=0.6917
+[loso_test_p5_val_p6] pointnet_gru epoch 013/30 | train_loss=0.1321 | train_acc=0.9997 | val_f1=0.7920
+[loso_test_p5_val_p6] pointnet_gru epoch 014/30 | train_loss=0.1320 | train_acc=0.9998 | val_f1=0.6420
+[loso_test_p5_val_p6] pointnet_gru epoch 015/30 | train_loss=0.1317 | train_acc=0.9998 | val_f1=0.7435
+[loso_test_p5_val_p6] pointnet_gru epoch 016/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.7027
+[loso_test_p5_val_p6] pointnet_gru epoch 017/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.7359
+[loso_test_p5_val_p6] pointnet_gru epoch 018/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.6699
+[loso_test_p5_val_p6] pointnet_gru epoch 019/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.7200
+[loso_test_p5_val_p6] pointnet_gru epoch 020/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.6893
+[loso_test_p5_val_p6] pointnet_gru epoch 021/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.7551
+[loso_test_p5_val_p6] pointnet_gru epoch 022/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.7026
+[loso_test_p5_val_p6] pointnet_gru epoch 023/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.8173
+[loso_test_p5_val_p6] pointnet_gru epoch 024/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7853
+[loso_test_p5_val_p6] pointnet_gru epoch 025/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7644
+[loso_test_p5_val_p6] pointnet_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7155
+[loso_test_p5_val_p6] pointnet_gru epoch 027/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7297
+[loso_test_p5_val_p6] pointnet_gru epoch 028/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7615
+[loso_test_p5_val_p6] pointnet_gru epoch 029/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7293
+[loso_test_p5_val_p6] pointnet_gru epoch 030/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7106
+
+=== loso_test_p5_val_p6 | pointnet_tcn ===
+train=[1, 2, 3, 4, 7], val=[6], test=[5]
+[loso_test_p5_val_p6] pointnet_tcn epoch 001/30 | train_loss=0.1805 | train_acc=0.9872 | val_f1=0.6261
+[loso_test_p5_val_p6] pointnet_tcn epoch 002/30 | train_loss=0.1417 | train_acc=0.9981 | val_f1=0.6561
+[loso_test_p5_val_p6] pointnet_tcn epoch 003/30 | train_loss=0.1392 | train_acc=0.9985 | val_f1=0.7534
+[loso_test_p5_val_p6] pointnet_tcn epoch 004/30 | train_loss=0.1377 | train_acc=0.9988 | val_f1=0.7431
+[loso_test_p5_val_p6] pointnet_tcn epoch 005/30 | train_loss=0.1365 | train_acc=0.9993 | val_f1=0.7455
+[loso_test_p5_val_p6] pointnet_tcn epoch 006/30 | train_loss=0.1364 | train_acc=0.9992 | val_f1=0.7761
+[loso_test_p5_val_p6] pointnet_tcn epoch 007/30 | train_loss=0.1355 | train_acc=0.9994 | val_f1=0.8471
+[loso_test_p5_val_p6] pointnet_tcn epoch 008/30 | train_loss=0.1352 | train_acc=0.9995 | val_f1=0.7390
+[loso_test_p5_val_p6] pointnet_tcn epoch 009/30 | train_loss=0.1347 | train_acc=0.9996 | val_f1=0.8314
+[loso_test_p5_val_p6] pointnet_tcn epoch 010/30 | train_loss=0.1343 | train_acc=0.9996 | val_f1=0.7652
+[loso_test_p5_val_p6] pointnet_tcn epoch 011/30 | train_loss=0.1340 | train_acc=0.9997 | val_f1=0.8219
+[loso_test_p5_val_p6] pointnet_tcn epoch 012/30 | train_loss=0.1339 | train_acc=0.9997 | val_f1=0.8276
+[loso_test_p5_val_p6] pointnet_tcn epoch 013/30 | train_loss=0.1336 | train_acc=0.9998 | val_f1=0.7973
+[loso_test_p5_val_p6] pointnet_tcn epoch 014/30 | train_loss=0.1337 | train_acc=0.9997 | val_f1=0.8860
+[loso_test_p5_val_p6] pointnet_tcn epoch 015/30 | train_loss=0.1334 | train_acc=0.9998 | val_f1=0.8658
+[loso_test_p5_val_p6] pointnet_tcn epoch 016/30 | train_loss=0.1331 | train_acc=0.9999 | val_f1=0.7974
+[loso_test_p5_val_p6] pointnet_tcn epoch 017/30 | train_loss=0.1330 | train_acc=0.9999 | val_f1=0.8530
+[loso_test_p5_val_p6] pointnet_tcn epoch 018/30 | train_loss=0.1330 | train_acc=0.9999 | val_f1=0.8297
+[loso_test_p5_val_p6] pointnet_tcn epoch 019/30 | train_loss=0.1328 | train_acc=1.0000 | val_f1=0.8809
+[loso_test_p5_val_p6] pointnet_tcn epoch 020/30 | train_loss=0.1327 | train_acc=1.0000 | val_f1=0.8779
+[loso_test_p5_val_p6] pointnet_tcn epoch 021/30 | train_loss=0.1328 | train_acc=0.9999 | val_f1=0.8947
+[loso_test_p5_val_p6] pointnet_tcn epoch 022/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.8954
+[loso_test_p5_val_p6] pointnet_tcn epoch 023/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.8252
+[loso_test_p5_val_p6] pointnet_tcn epoch 024/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.8155
+[loso_test_p5_val_p6] pointnet_tcn epoch 025/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.8531
+[loso_test_p5_val_p6] pointnet_tcn epoch 026/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.8569
+[loso_test_p5_val_p6] pointnet_tcn epoch 027/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.8444
+[loso_test_p5_val_p6] pointnet_tcn epoch 028/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.8563
+[loso_test_p5_val_p6] pointnet_tcn epoch 029/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.8630
+[loso_test_p5_val_p6] pointnet_tcn epoch 030/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.8323
+
+=== loso_test_p5_val_p6 | robhar_like ===
+train=[1, 2, 3, 4, 7], val=[6], test=[5]
+[loso_test_p5_val_p6] robhar_like epoch 001/30 | train_loss=0.1981 | train_acc=0.9790 | val_f1=0.5798
+[loso_test_p5_val_p6] robhar_like epoch 002/30 | train_loss=0.1432 | train_acc=0.9969 | val_f1=0.6343
+[loso_test_p5_val_p6] robhar_like epoch 003/30 | train_loss=0.1401 | train_acc=0.9978 | val_f1=0.5882
+[loso_test_p5_val_p6] robhar_like epoch 004/30 | train_loss=0.1372 | train_acc=0.9986 | val_f1=0.5512
+[loso_test_p5_val_p6] robhar_like epoch 005/30 | train_loss=0.1360 | train_acc=0.9989 | val_f1=0.7100
+[loso_test_p5_val_p6] robhar_like epoch 006/30 | train_loss=0.1350 | train_acc=0.9992 | val_f1=0.6578
+[loso_test_p5_val_p6] robhar_like epoch 007/30 | train_loss=0.1343 | train_acc=0.9993 | val_f1=0.6746
+[loso_test_p5_val_p6] robhar_like epoch 008/30 | train_loss=0.1342 | train_acc=0.9994 | val_f1=0.5935
+[loso_test_p5_val_p6] robhar_like epoch 009/30 | train_loss=0.1335 | train_acc=0.9996 | val_f1=0.5530
+[loso_test_p5_val_p6] robhar_like epoch 010/30 | train_loss=0.1335 | train_acc=0.9995 | val_f1=0.6812
+[loso_test_p5_val_p6] robhar_like epoch 011/30 | train_loss=0.1333 | train_acc=0.9996 | val_f1=0.8105
+[loso_test_p5_val_p6] robhar_like epoch 012/30 | train_loss=0.1328 | train_acc=0.9997 | val_f1=0.7680
+[loso_test_p5_val_p6] robhar_like epoch 013/30 | train_loss=0.1326 | train_acc=0.9998 | val_f1=0.6298
+[loso_test_p5_val_p6] robhar_like epoch 014/30 | train_loss=0.1323 | train_acc=0.9998 | val_f1=0.7335
+[loso_test_p5_val_p6] robhar_like epoch 015/30 | train_loss=0.1321 | train_acc=0.9999 | val_f1=0.6409
+[loso_test_p5_val_p6] robhar_like epoch 016/30 | train_loss=0.1321 | train_acc=0.9998 | val_f1=0.5949
+[loso_test_p5_val_p6] robhar_like epoch 017/30 | train_loss=0.1321 | train_acc=0.9999 | val_f1=0.7677
+[loso_test_p5_val_p6] robhar_like epoch 018/30 | train_loss=0.1320 | train_acc=0.9999 | val_f1=0.6938
+[loso_test_p5_val_p6] robhar_like epoch 019/30 | train_loss=0.1317 | train_acc=1.0000 | val_f1=0.7193
+[loso_test_p5_val_p6] robhar_like epoch 020/30 | train_loss=0.1317 | train_acc=0.9999 | val_f1=0.7180
+[loso_test_p5_val_p6] robhar_like epoch 021/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.7337
+[loso_test_p5_val_p6] robhar_like epoch 022/30 | train_loss=0.1317 | train_acc=1.0000 | val_f1=0.7200
+[loso_test_p5_val_p6] robhar_like epoch 023/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.6390
+[loso_test_p5_val_p6] robhar_like epoch 024/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.7226
+[loso_test_p5_val_p6] robhar_like epoch 025/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.6602
+[loso_test_p5_val_p6] robhar_like epoch 026/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.6481
+[loso_test_p5_val_p6] robhar_like epoch 027/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.6958
+[loso_test_p5_val_p6] robhar_like epoch 028/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.6756
+[loso_test_p5_val_p6] robhar_like epoch 029/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.6667
+[loso_test_p5_val_p6] robhar_like epoch 030/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.6802
+
+=== loso_test_p5_val_p6 | pct_gru ===
+train=[1, 2, 3, 4, 7], val=[6], test=[5]
+[loso_test_p5_val_p6] pct_gru epoch 001/30 | train_loss=0.2416 | train_acc=0.9617 | val_f1=0.4812
+[loso_test_p5_val_p6] pct_gru epoch 002/30 | train_loss=0.1458 | train_acc=0.9958 | val_f1=0.6428
+[loso_test_p5_val_p6] pct_gru epoch 003/30 | train_loss=0.1406 | train_acc=0.9975 | val_f1=0.6259
+[loso_test_p5_val_p6] pct_gru epoch 004/30 | train_loss=0.1381 | train_acc=0.9982 | val_f1=0.7253
+[loso_test_p5_val_p6] pct_gru epoch 005/30 | train_loss=0.1371 | train_acc=0.9985 | val_f1=0.8307
+[loso_test_p5_val_p6] pct_gru epoch 006/30 | train_loss=0.1370 | train_acc=0.9985 | val_f1=0.4988
+[loso_test_p5_val_p6] pct_gru epoch 007/30 | train_loss=0.1347 | train_acc=0.9992 | val_f1=0.8757
+[loso_test_p5_val_p6] pct_gru epoch 008/30 | train_loss=0.1341 | train_acc=0.9993 | val_f1=0.6774
+[loso_test_p5_val_p6] pct_gru epoch 009/30 | train_loss=0.1330 | train_acc=0.9996 | val_f1=0.7938
+[loso_test_p5_val_p6] pct_gru epoch 010/30 | train_loss=0.1330 | train_acc=0.9995 | val_f1=0.6381
+[loso_test_p5_val_p6] pct_gru epoch 011/30 | train_loss=0.1327 | train_acc=0.9996 | val_f1=0.6998
+[loso_test_p5_val_p6] pct_gru epoch 012/30 | train_loss=0.1331 | train_acc=0.9995 | val_f1=0.7076
+[loso_test_p5_val_p6] pct_gru epoch 013/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.6649
+[loso_test_p5_val_p6] pct_gru epoch 014/30 | train_loss=0.1324 | train_acc=0.9997 | val_f1=0.7717
+[loso_test_p5_val_p6] pct_gru epoch 015/30 | train_loss=0.1319 | train_acc=0.9998 | val_f1=0.7227
+[loso_test_p5_val_p6] pct_gru epoch 016/30 | train_loss=0.1319 | train_acc=0.9998 | val_f1=0.6728
+[loso_test_p5_val_p6] pct_gru epoch 017/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.6886
+[loso_test_p5_val_p6] pct_gru epoch 018/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.7067
+[loso_test_p5_val_p6] pct_gru epoch 019/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.7280
+[loso_test_p5_val_p6] pct_gru epoch 020/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.6739
+[loso_test_p5_val_p6] pct_gru epoch 021/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.6842
+[loso_test_p5_val_p6] pct_gru epoch 022/30 | train_loss=0.1311 | train_acc=0.9999 | val_f1=0.6493
+[loso_test_p5_val_p6] pct_gru epoch 023/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7234
+[loso_test_p5_val_p6] pct_gru epoch 024/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7000
+[loso_test_p5_val_p6] pct_gru epoch 025/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6936
+[loso_test_p5_val_p6] pct_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6433
+[loso_test_p5_val_p6] pct_gru epoch 027/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6722
+[loso_test_p5_val_p6] pct_gru epoch 028/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6491
+[loso_test_p5_val_p6] pct_gru epoch 029/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6256
+[loso_test_p5_val_p6] pct_gru epoch 030/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.6316
+
+=== loso_test_p5_val_p6 | dgcnn_gru ===
+train=[1, 2, 3, 4, 7], val=[6], test=[5]
+[loso_test_p5_val_p6] dgcnn_gru epoch 001/30 | train_loss=0.2145 | train_acc=0.9739 | val_f1=0.7563
+[loso_test_p5_val_p6] dgcnn_gru epoch 002/30 | train_loss=0.1430 | train_acc=0.9972 | val_f1=0.7585
+[loso_test_p5_val_p6] dgcnn_gru epoch 003/30 | train_loss=0.1391 | train_acc=0.9982 | val_f1=0.6635
+[loso_test_p5_val_p6] dgcnn_gru epoch 004/30 | train_loss=0.1376 | train_acc=0.9984 | val_f1=0.8368
+[loso_test_p5_val_p6] dgcnn_gru epoch 005/30 | train_loss=0.1362 | train_acc=0.9988 | val_f1=0.8834
+[loso_test_p5_val_p6] dgcnn_gru epoch 006/30 | train_loss=0.1352 | train_acc=0.9991 | val_f1=0.9062
+[loso_test_p5_val_p6] dgcnn_gru epoch 007/30 | train_loss=0.1345 | train_acc=0.9993 | val_f1=0.8650
+[loso_test_p5_val_p6] dgcnn_gru epoch 008/30 | train_loss=0.1340 | train_acc=0.9994 | val_f1=0.8580
+[loso_test_p5_val_p6] dgcnn_gru epoch 009/30 | train_loss=0.1329 | train_acc=0.9997 | val_f1=0.9526
+[loso_test_p5_val_p6] dgcnn_gru epoch 010/30 | train_loss=0.1336 | train_acc=0.9995 | val_f1=0.9179
+[loso_test_p5_val_p6] dgcnn_gru epoch 011/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.9251
+[loso_test_p5_val_p6] dgcnn_gru epoch 012/30 | train_loss=0.1322 | train_acc=0.9998 | val_f1=0.9274
+[loso_test_p5_val_p6] dgcnn_gru epoch 013/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.8844
+[loso_test_p5_val_p6] dgcnn_gru epoch 014/30 | train_loss=0.1319 | train_acc=0.9999 | val_f1=0.8293
+[loso_test_p5_val_p6] dgcnn_gru epoch 015/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.9132
+[loso_test_p5_val_p6] dgcnn_gru epoch 016/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.9471
+[loso_test_p5_val_p6] dgcnn_gru epoch 017/30 | train_loss=0.1317 | train_acc=0.9999 | val_f1=0.9136
+[loso_test_p5_val_p6] dgcnn_gru epoch 018/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.9110
+[loso_test_p5_val_p6] dgcnn_gru epoch 019/30 | train_loss=0.1313 | train_acc=1.0000 | val_f1=0.9009
+[loso_test_p5_val_p6] dgcnn_gru epoch 020/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.8467
+[loso_test_p5_val_p6] dgcnn_gru epoch 021/30 | train_loss=0.1313 | train_acc=1.0000 | val_f1=0.8867
+[loso_test_p5_val_p6] dgcnn_gru epoch 022/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.9143
+[loso_test_p5_val_p6] dgcnn_gru epoch 023/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.8823
+[loso_test_p5_val_p6] dgcnn_gru epoch 024/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.8884
+[loso_test_p5_val_p6] dgcnn_gru epoch 025/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.9185
+[loso_test_p5_val_p6] dgcnn_gru epoch 026/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9019
+[loso_test_p5_val_p6] dgcnn_gru epoch 027/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.8981
+[loso_test_p5_val_p6] dgcnn_gru epoch 028/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9080
+[loso_test_p5_val_p6] dgcnn_gru epoch 029/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.8790
+[loso_test_p5_val_p6] dgcnn_gru epoch 030/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.8590
+
+=== loso_test_p5_val_p6 | radar_stnet ===
+train=[1, 2, 3, 4, 7], val=[6], test=[5]
+[loso_test_p5_val_p6] radar_stnet epoch 001/30 | train_loss=0.2164 | train_acc=0.9757 | val_f1=0.6772
+[loso_test_p5_val_p6] radar_stnet epoch 002/30 | train_loss=0.1558 | train_acc=0.9951 | val_f1=0.6839
+[loso_test_p5_val_p6] radar_stnet epoch 003/30 | train_loss=0.1500 | train_acc=0.9966 | val_f1=0.8054
+[loso_test_p5_val_p6] radar_stnet epoch 004/30 | train_loss=0.1464 | train_acc=0.9975 | val_f1=0.6199
+[loso_test_p5_val_p6] radar_stnet epoch 005/30 | train_loss=0.1453 | train_acc=0.9978 | val_f1=0.8227
+[loso_test_p5_val_p6] radar_stnet epoch 006/30 | train_loss=0.1437 | train_acc=0.9982 | val_f1=0.8024
+[loso_test_p5_val_p6] radar_stnet epoch 007/30 | train_loss=0.1423 | train_acc=0.9985 | val_f1=0.8286
+[loso_test_p5_val_p6] radar_stnet epoch 008/30 | train_loss=0.1406 | train_acc=0.9987 | val_f1=0.8168
+[loso_test_p5_val_p6] radar_stnet epoch 009/30 | train_loss=0.1395 | train_acc=0.9990 | val_f1=0.8187
+[loso_test_p5_val_p6] radar_stnet epoch 010/30 | train_loss=0.1386 | train_acc=0.9991 | val_f1=0.8598
+[loso_test_p5_val_p6] radar_stnet epoch 011/30 | train_loss=0.1379 | train_acc=0.9993 | val_f1=0.7936
+[loso_test_p5_val_p6] radar_stnet epoch 012/30 | train_loss=0.1370 | train_acc=0.9994 | val_f1=0.9025
+[loso_test_p5_val_p6] radar_stnet epoch 013/30 | train_loss=0.1366 | train_acc=0.9994 | val_f1=0.9190
+[loso_test_p5_val_p6] radar_stnet epoch 014/30 | train_loss=0.1362 | train_acc=0.9994 | val_f1=0.8419
+[loso_test_p5_val_p6] radar_stnet epoch 015/30 | train_loss=0.1353 | train_acc=0.9997 | val_f1=0.9376
+[loso_test_p5_val_p6] radar_stnet epoch 016/30 | train_loss=0.1350 | train_acc=0.9997 | val_f1=0.9052
+[loso_test_p5_val_p6] radar_stnet epoch 017/30 | train_loss=0.1348 | train_acc=0.9998 | val_f1=0.8626
+[loso_test_p5_val_p6] radar_stnet epoch 018/30 | train_loss=0.1346 | train_acc=0.9998 | val_f1=0.8937
+[loso_test_p5_val_p6] radar_stnet epoch 019/30 | train_loss=0.1342 | train_acc=0.9999 | val_f1=0.8470
+[loso_test_p5_val_p6] radar_stnet epoch 020/30 | train_loss=0.1341 | train_acc=0.9999 | val_f1=0.8182
+[loso_test_p5_val_p6] radar_stnet epoch 021/30 | train_loss=0.1340 | train_acc=0.9999 | val_f1=0.8789
+[loso_test_p5_val_p6] radar_stnet epoch 022/30 | train_loss=0.1339 | train_acc=0.9999 | val_f1=0.8990
+[loso_test_p5_val_p6] radar_stnet epoch 023/30 | train_loss=0.1338 | train_acc=0.9999 | val_f1=0.8788
+[loso_test_p5_val_p6] radar_stnet epoch 024/30 | train_loss=0.1338 | train_acc=0.9999 | val_f1=0.7880
+[loso_test_p5_val_p6] radar_stnet epoch 025/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.8509
+[loso_test_p5_val_p6] radar_stnet epoch 026/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.8569
+[loso_test_p5_val_p6] radar_stnet epoch 027/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.8183
+[loso_test_p5_val_p6] radar_stnet epoch 028/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.8271
+[loso_test_p5_val_p6] radar_stnet epoch 029/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.8412
+[loso_test_p5_val_p6] radar_stnet epoch 030/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.8400
+
+=== loso_test_p6_val_p7 | stats_svm ===
+train=[1, 2, 3, 4, 5], val=[7], test=[6]
+
+=== loso_test_p6_val_p7 | stats_rf ===
+train=[1, 2, 3, 4, 5], val=[7], test=[6]
+
+=== loso_test_p6_val_p7 | stats_knn ===
+train=[1, 2, 3, 4, 5], val=[7], test=[6]
+
+=== loso_test_p6_val_p7 | pointnet_gru ===
+train=[1, 2, 3, 4, 5], val=[7], test=[6]
+[loso_test_p6_val_p7] pointnet_gru epoch 001/30 | train_loss=0.1929 | train_acc=0.9812 | val_f1=0.7903
+[loso_test_p6_val_p7] pointnet_gru epoch 002/30 | train_loss=0.1415 | train_acc=0.9974 | val_f1=0.7752
+[loso_test_p6_val_p7] pointnet_gru epoch 003/30 | train_loss=0.1389 | train_acc=0.9980 | val_f1=0.8308
+[loso_test_p6_val_p7] pointnet_gru epoch 004/30 | train_loss=0.1363 | train_acc=0.9986 | val_f1=0.9041
+[loso_test_p6_val_p7] pointnet_gru epoch 005/30 | train_loss=0.1361 | train_acc=0.9987 | val_f1=0.8802
+[loso_test_p6_val_p7] pointnet_gru epoch 006/30 | train_loss=0.1345 | train_acc=0.9993 | val_f1=0.8808
+[loso_test_p6_val_p7] pointnet_gru epoch 007/30 | train_loss=0.1345 | train_acc=0.9993 | val_f1=0.8528
+[loso_test_p6_val_p7] pointnet_gru epoch 008/30 | train_loss=0.1343 | train_acc=0.9992 | val_f1=0.7555
+[loso_test_p6_val_p7] pointnet_gru epoch 009/30 | train_loss=0.1328 | train_acc=0.9996 | val_f1=0.7885
+[loso_test_p6_val_p7] pointnet_gru epoch 010/30 | train_loss=0.1325 | train_acc=0.9996 | val_f1=0.8591
+[loso_test_p6_val_p7] pointnet_gru epoch 011/30 | train_loss=0.1329 | train_acc=0.9996 | val_f1=0.8513
+[loso_test_p6_val_p7] pointnet_gru epoch 012/30 | train_loss=0.1321 | train_acc=0.9998 | val_f1=0.8241
+[loso_test_p6_val_p7] pointnet_gru epoch 013/30 | train_loss=0.1322 | train_acc=0.9997 | val_f1=0.8117
+[loso_test_p6_val_p7] pointnet_gru epoch 014/30 | train_loss=0.1321 | train_acc=0.9997 | val_f1=0.7890
+[loso_test_p6_val_p7] pointnet_gru epoch 015/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.6793
+[loso_test_p6_val_p7] pointnet_gru epoch 016/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.7902
+[loso_test_p6_val_p7] pointnet_gru epoch 017/30 | train_loss=0.1318 | train_acc=0.9998 | val_f1=0.8111
+[loso_test_p6_val_p7] pointnet_gru epoch 018/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.8042
+[loso_test_p6_val_p7] pointnet_gru epoch 019/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.7645
+[loso_test_p6_val_p7] pointnet_gru epoch 020/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.7958
+[loso_test_p6_val_p7] pointnet_gru epoch 021/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7957
+[loso_test_p6_val_p7] pointnet_gru epoch 022/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7602
+[loso_test_p6_val_p7] pointnet_gru epoch 023/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7573
+[loso_test_p6_val_p7] pointnet_gru epoch 024/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7693
+[loso_test_p6_val_p7] pointnet_gru epoch 025/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7600
+[loso_test_p6_val_p7] pointnet_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7830
+[loso_test_p6_val_p7] pointnet_gru epoch 027/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7989
+[loso_test_p6_val_p7] pointnet_gru epoch 028/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7944
+[loso_test_p6_val_p7] pointnet_gru epoch 029/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7921
+[loso_test_p6_val_p7] pointnet_gru epoch 030/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.7744
+
+=== loso_test_p6_val_p7 | pointnet_tcn ===
+train=[1, 2, 3, 4, 5], val=[7], test=[6]
+[loso_test_p6_val_p7] pointnet_tcn epoch 001/30 | train_loss=0.1862 | train_acc=0.9855 | val_f1=0.8667
+[loso_test_p6_val_p7] pointnet_tcn epoch 002/30 | train_loss=0.1426 | train_acc=0.9976 | val_f1=0.8314
+[loso_test_p6_val_p7] pointnet_tcn epoch 003/30 | train_loss=0.1397 | train_acc=0.9983 | val_f1=0.7691
+[loso_test_p6_val_p7] pointnet_tcn epoch 004/30 | train_loss=0.1382 | train_acc=0.9988 | val_f1=0.9106
+[loso_test_p6_val_p7] pointnet_tcn epoch 005/30 | train_loss=0.1368 | train_acc=0.9991 | val_f1=0.8853
+[loso_test_p6_val_p7] pointnet_tcn epoch 006/30 | train_loss=0.1367 | train_acc=0.9990 | val_f1=0.8152
+[loso_test_p6_val_p7] pointnet_tcn epoch 007/30 | train_loss=0.1356 | train_acc=0.9994 | val_f1=0.9406
+[loso_test_p6_val_p7] pointnet_tcn epoch 008/30 | train_loss=0.1356 | train_acc=0.9993 | val_f1=0.8599
+[loso_test_p6_val_p7] pointnet_tcn epoch 009/30 | train_loss=0.1347 | train_acc=0.9995 | val_f1=0.8742
+[loso_test_p6_val_p7] pointnet_tcn epoch 010/30 | train_loss=0.1347 | train_acc=0.9995 | val_f1=0.8825
+[loso_test_p6_val_p7] pointnet_tcn epoch 011/30 | train_loss=0.1339 | train_acc=0.9998 | val_f1=0.8900
+[loso_test_p6_val_p7] pointnet_tcn epoch 012/30 | train_loss=0.1342 | train_acc=0.9996 | val_f1=0.8925
+[loso_test_p6_val_p7] pointnet_tcn epoch 013/30 | train_loss=0.1340 | train_acc=0.9997 | val_f1=0.9031
+[loso_test_p6_val_p7] pointnet_tcn epoch 014/30 | train_loss=0.1335 | train_acc=0.9998 | val_f1=0.9590
+[loso_test_p6_val_p7] pointnet_tcn epoch 015/30 | train_loss=0.1335 | train_acc=0.9998 | val_f1=0.9042
+[loso_test_p6_val_p7] pointnet_tcn epoch 016/30 | train_loss=0.1332 | train_acc=0.9998 | val_f1=0.8765
+[loso_test_p6_val_p7] pointnet_tcn epoch 017/30 | train_loss=0.1332 | train_acc=0.9998 | val_f1=0.9243
+[loso_test_p6_val_p7] pointnet_tcn epoch 018/30 | train_loss=0.1331 | train_acc=0.9999 | val_f1=0.8952
+[loso_test_p6_val_p7] pointnet_tcn epoch 019/30 | train_loss=0.1330 | train_acc=0.9999 | val_f1=0.9223
+[loso_test_p6_val_p7] pointnet_tcn epoch 020/30 | train_loss=0.1328 | train_acc=1.0000 | val_f1=0.9276
+[loso_test_p6_val_p7] pointnet_tcn epoch 021/30 | train_loss=0.1327 | train_acc=1.0000 | val_f1=0.9110
+[loso_test_p6_val_p7] pointnet_tcn epoch 022/30 | train_loss=0.1327 | train_acc=1.0000 | val_f1=0.7525
+[loso_test_p6_val_p7] pointnet_tcn epoch 023/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.8866
+[loso_test_p6_val_p7] pointnet_tcn epoch 024/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.8865
+[loso_test_p6_val_p7] pointnet_tcn epoch 025/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.8716
+[loso_test_p6_val_p7] pointnet_tcn epoch 026/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.9080
+[loso_test_p6_val_p7] pointnet_tcn epoch 027/30 | train_loss=0.1326 | train_acc=1.0000 | val_f1=0.9139
+[loso_test_p6_val_p7] pointnet_tcn epoch 028/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.9121
+[loso_test_p6_val_p7] pointnet_tcn epoch 029/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.9004
+[loso_test_p6_val_p7] pointnet_tcn epoch 030/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.8776
+
+=== loso_test_p6_val_p7 | robhar_like ===
+train=[1, 2, 3, 4, 5], val=[7], test=[6]
+[loso_test_p6_val_p7] robhar_like epoch 001/30 | train_loss=0.1947 | train_acc=0.9807 | val_f1=0.8468
+[loso_test_p6_val_p7] robhar_like epoch 002/30 | train_loss=0.1430 | train_acc=0.9970 | val_f1=0.8116
+[loso_test_p6_val_p7] robhar_like epoch 003/30 | train_loss=0.1399 | train_acc=0.9979 | val_f1=0.8160
+[loso_test_p6_val_p7] robhar_like epoch 004/30 | train_loss=0.1374 | train_acc=0.9985 | val_f1=0.8015
+[loso_test_p6_val_p7] robhar_like epoch 005/30 | train_loss=0.1366 | train_acc=0.9988 | val_f1=0.7825
+[loso_test_p6_val_p7] robhar_like epoch 006/30 | train_loss=0.1357 | train_acc=0.9990 | val_f1=0.8468
+[loso_test_p6_val_p7] robhar_like epoch 007/30 | train_loss=0.1347 | train_acc=0.9992 | val_f1=0.8492
+[loso_test_p6_val_p7] robhar_like epoch 008/30 | train_loss=0.1349 | train_acc=0.9992 | val_f1=0.7740
+[loso_test_p6_val_p7] robhar_like epoch 009/30 | train_loss=0.1339 | train_acc=0.9994 | val_f1=0.8454
+[loso_test_p6_val_p7] robhar_like epoch 010/30 | train_loss=0.1336 | train_acc=0.9995 | val_f1=0.7134
+[loso_test_p6_val_p7] robhar_like epoch 011/30 | train_loss=0.1335 | train_acc=0.9995 | val_f1=0.7692
+[loso_test_p6_val_p7] robhar_like epoch 012/30 | train_loss=0.1329 | train_acc=0.9997 | val_f1=0.8325
+[loso_test_p6_val_p7] robhar_like epoch 013/30 | train_loss=0.1330 | train_acc=0.9997 | val_f1=0.7706
+[loso_test_p6_val_p7] robhar_like epoch 014/30 | train_loss=0.1324 | train_acc=0.9998 | val_f1=0.7423
+[loso_test_p6_val_p7] robhar_like epoch 015/30 | train_loss=0.1325 | train_acc=0.9998 | val_f1=0.7071
+[loso_test_p6_val_p7] robhar_like epoch 016/30 | train_loss=0.1321 | train_acc=0.9999 | val_f1=0.7703
+[loso_test_p6_val_p7] robhar_like epoch 017/30 | train_loss=0.1320 | train_acc=0.9999 | val_f1=0.7428
+[loso_test_p6_val_p7] robhar_like epoch 018/30 | train_loss=0.1319 | train_acc=0.9999 | val_f1=0.7419
+[loso_test_p6_val_p7] robhar_like epoch 019/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.7787
+[loso_test_p6_val_p7] robhar_like epoch 020/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.7635
+[loso_test_p6_val_p7] robhar_like epoch 021/30 | train_loss=0.1317 | train_acc=0.9999 | val_f1=0.7873
+[loso_test_p6_val_p7] robhar_like epoch 022/30 | train_loss=0.1316 | train_acc=1.0000 | val_f1=0.7376
+[loso_test_p6_val_p7] robhar_like epoch 023/30 | train_loss=0.1317 | train_acc=0.9999 | val_f1=0.8262
+[loso_test_p6_val_p7] robhar_like epoch 024/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.8132
+[loso_test_p6_val_p7] robhar_like epoch 025/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.8233
+[loso_test_p6_val_p7] robhar_like epoch 026/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.7938
+[loso_test_p6_val_p7] robhar_like epoch 027/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.7850
+[loso_test_p6_val_p7] robhar_like epoch 028/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.7808
+[loso_test_p6_val_p7] robhar_like epoch 029/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.8022
+[loso_test_p6_val_p7] robhar_like epoch 030/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.7899
+
+=== loso_test_p6_val_p7 | pct_gru ===
+train=[1, 2, 3, 4, 5], val=[7], test=[6]
+[loso_test_p6_val_p7] pct_gru epoch 001/30 | train_loss=0.2389 | train_acc=0.9632 | val_f1=0.8702
+[loso_test_p6_val_p7] pct_gru epoch 002/30 | train_loss=0.1457 | train_acc=0.9960 | val_f1=0.6924
+[loso_test_p6_val_p7] pct_gru epoch 003/30 | train_loss=0.1405 | train_acc=0.9975 | val_f1=0.6882
+[loso_test_p6_val_p7] pct_gru epoch 004/30 | train_loss=0.1381 | train_acc=0.9983 | val_f1=0.8425
+[loso_test_p6_val_p7] pct_gru epoch 005/30 | train_loss=0.1361 | train_acc=0.9988 | val_f1=0.7652
+[loso_test_p6_val_p7] pct_gru epoch 006/30 | train_loss=0.1354 | train_acc=0.9990 | val_f1=0.7082
+[loso_test_p6_val_p7] pct_gru epoch 007/30 | train_loss=0.1339 | train_acc=0.9993 | val_f1=0.7438
+[loso_test_p6_val_p7] pct_gru epoch 008/30 | train_loss=0.1338 | train_acc=0.9993 | val_f1=0.8409
+[loso_test_p6_val_p7] pct_gru epoch 009/30 | train_loss=0.1343 | train_acc=0.9992 | val_f1=0.7164
+[loso_test_p6_val_p7] pct_gru epoch 010/30 | train_loss=0.1327 | train_acc=0.9997 | val_f1=0.8756
+[loso_test_p6_val_p7] pct_gru epoch 011/30 | train_loss=0.1334 | train_acc=0.9994 | val_f1=0.7668
+[loso_test_p6_val_p7] pct_gru epoch 012/30 | train_loss=0.1326 | train_acc=0.9996 | val_f1=0.8295
+[loso_test_p6_val_p7] pct_gru epoch 013/30 | train_loss=0.1320 | train_acc=0.9998 | val_f1=0.6000
+[loso_test_p6_val_p7] pct_gru epoch 014/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.8036
+[loso_test_p6_val_p7] pct_gru epoch 015/30 | train_loss=0.1322 | train_acc=0.9997 | val_f1=0.8025
+[loso_test_p6_val_p7] pct_gru epoch 016/30 | train_loss=0.1320 | train_acc=0.9997 | val_f1=0.7834
+[loso_test_p6_val_p7] pct_gru epoch 017/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.8242
+[loso_test_p6_val_p7] pct_gru epoch 018/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.8432
+[loso_test_p6_val_p7] pct_gru epoch 019/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.8215
+[loso_test_p6_val_p7] pct_gru epoch 020/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.8463
+[loso_test_p6_val_p7] pct_gru epoch 021/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7920
+[loso_test_p6_val_p7] pct_gru epoch 022/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.8275
+[loso_test_p6_val_p7] pct_gru epoch 023/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.8420
+[loso_test_p6_val_p7] pct_gru epoch 024/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.8524
+[loso_test_p6_val_p7] pct_gru epoch 025/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.7916
+[loso_test_p6_val_p7] pct_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.8206
+[loso_test_p6_val_p7] pct_gru epoch 027/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.8400
+[loso_test_p6_val_p7] pct_gru epoch 028/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.8374
+[loso_test_p6_val_p7] pct_gru epoch 029/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.8334
+[loso_test_p6_val_p7] pct_gru epoch 030/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.8255
+
+=== loso_test_p6_val_p7 | dgcnn_gru ===
+train=[1, 2, 3, 4, 5], val=[7], test=[6]
+[loso_test_p6_val_p7] dgcnn_gru epoch 001/30 | train_loss=0.2203 | train_acc=0.9719 | val_f1=0.9738
+[loso_test_p6_val_p7] dgcnn_gru epoch 002/30 | train_loss=0.1439 | train_acc=0.9969 | val_f1=0.9168
+[loso_test_p6_val_p7] dgcnn_gru epoch 003/30 | train_loss=0.1406 | train_acc=0.9977 | val_f1=0.9703
+[loso_test_p6_val_p7] dgcnn_gru epoch 004/30 | train_loss=0.1375 | train_acc=0.9986 | val_f1=0.9293
+[loso_test_p6_val_p7] dgcnn_gru epoch 005/30 | train_loss=0.1367 | train_acc=0.9988 | val_f1=0.9250
+[loso_test_p6_val_p7] dgcnn_gru epoch 006/30 | train_loss=0.1350 | train_acc=0.9992 | val_f1=0.9410
+[loso_test_p6_val_p7] dgcnn_gru epoch 007/30 | train_loss=0.1346 | train_acc=0.9993 | val_f1=0.9279
+[loso_test_p6_val_p7] dgcnn_gru epoch 008/30 | train_loss=0.1343 | train_acc=0.9993 | val_f1=0.9376
+[loso_test_p6_val_p7] dgcnn_gru epoch 009/30 | train_loss=0.1338 | train_acc=0.9994 | val_f1=0.9668
+[loso_test_p6_val_p7] dgcnn_gru epoch 010/30 | train_loss=0.1333 | train_acc=0.9995 | val_f1=0.8941
+[loso_test_p6_val_p7] dgcnn_gru epoch 011/30 | train_loss=0.1331 | train_acc=0.9996 | val_f1=0.9363
+[loso_test_p6_val_p7] dgcnn_gru epoch 012/30 | train_loss=0.1325 | train_acc=0.9997 | val_f1=0.9381
+[loso_test_p6_val_p7] dgcnn_gru epoch 013/30 | train_loss=0.1325 | train_acc=0.9997 | val_f1=0.9369
+[loso_test_p6_val_p7] dgcnn_gru epoch 014/30 | train_loss=0.1319 | train_acc=0.9999 | val_f1=0.9275
+[loso_test_p6_val_p7] dgcnn_gru epoch 015/30 | train_loss=0.1322 | train_acc=0.9998 | val_f1=0.9274
+[loso_test_p6_val_p7] dgcnn_gru epoch 016/30 | train_loss=0.1320 | train_acc=0.9998 | val_f1=0.9282
+[loso_test_p6_val_p7] dgcnn_gru epoch 017/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.9265
+[loso_test_p6_val_p7] dgcnn_gru epoch 018/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.9039
+[loso_test_p6_val_p7] dgcnn_gru epoch 019/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.9392
+[loso_test_p6_val_p7] dgcnn_gru epoch 020/30 | train_loss=0.1313 | train_acc=1.0000 | val_f1=0.8738
+[loso_test_p6_val_p7] dgcnn_gru epoch 021/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.9180
+[loso_test_p6_val_p7] dgcnn_gru epoch 022/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.8914
+[loso_test_p6_val_p7] dgcnn_gru epoch 023/30 | train_loss=0.1312 | train_acc=1.0000 | val_f1=0.9091
+[loso_test_p6_val_p7] dgcnn_gru epoch 024/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.8892
+[loso_test_p6_val_p7] dgcnn_gru epoch 025/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.8994
+[loso_test_p6_val_p7] dgcnn_gru epoch 026/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9282
+[loso_test_p6_val_p7] dgcnn_gru epoch 027/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.8987
+[loso_test_p6_val_p7] dgcnn_gru epoch 028/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.9010
+[loso_test_p6_val_p7] dgcnn_gru epoch 029/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.8997
+[loso_test_p6_val_p7] dgcnn_gru epoch 030/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.8985
+
+=== loso_test_p6_val_p7 | radar_stnet ===
+train=[1, 2, 3, 4, 5], val=[7], test=[6]
+[loso_test_p6_val_p7] radar_stnet epoch 001/30 | train_loss=0.2150 | train_acc=0.9759 | val_f1=0.9276
+[loso_test_p6_val_p7] radar_stnet epoch 002/30 | train_loss=0.1558 | train_acc=0.9950 | val_f1=0.9529
+[loso_test_p6_val_p7] radar_stnet epoch 003/30 | train_loss=0.1505 | train_acc=0.9964 | val_f1=0.9784
+[loso_test_p6_val_p7] radar_stnet epoch 004/30 | train_loss=0.1463 | train_acc=0.9975 | val_f1=0.9797
+[loso_test_p6_val_p7] radar_stnet epoch 005/30 | train_loss=0.1446 | train_acc=0.9980 | val_f1=0.8337
+[loso_test_p6_val_p7] radar_stnet epoch 006/30 | train_loss=0.1429 | train_acc=0.9982 | val_f1=0.9564
+[loso_test_p6_val_p7] radar_stnet epoch 007/30 | train_loss=0.1407 | train_acc=0.9988 | val_f1=0.9842
+[loso_test_p6_val_p7] radar_stnet epoch 008/30 | train_loss=0.1402 | train_acc=0.9989 | val_f1=0.9597
+[loso_test_p6_val_p7] radar_stnet epoch 009/30 | train_loss=0.1394 | train_acc=0.9990 | val_f1=0.9905
+[loso_test_p6_val_p7] radar_stnet epoch 010/30 | train_loss=0.1388 | train_acc=0.9989 | val_f1=0.9823
+[loso_test_p6_val_p7] radar_stnet epoch 011/30 | train_loss=0.1375 | train_acc=0.9992 | val_f1=0.9534
+[loso_test_p6_val_p7] radar_stnet epoch 012/30 | train_loss=0.1363 | train_acc=0.9995 | val_f1=0.9775
+[loso_test_p6_val_p7] radar_stnet epoch 013/30 | train_loss=0.1361 | train_acc=0.9995 | val_f1=0.9741
+[loso_test_p6_val_p7] radar_stnet epoch 014/30 | train_loss=0.1357 | train_acc=0.9996 | val_f1=0.9810
+[loso_test_p6_val_p7] radar_stnet epoch 015/30 | train_loss=0.1355 | train_acc=0.9995 | val_f1=0.9414
+[loso_test_p6_val_p7] radar_stnet epoch 016/30 | train_loss=0.1357 | train_acc=0.9995 | val_f1=0.9964
+[loso_test_p6_val_p7] radar_stnet epoch 017/30 | train_loss=0.1349 | train_acc=0.9997 | val_f1=0.9725
+[loso_test_p6_val_p7] radar_stnet epoch 018/30 | train_loss=0.1349 | train_acc=0.9997 | val_f1=0.9934
+[loso_test_p6_val_p7] radar_stnet epoch 019/30 | train_loss=0.1346 | train_acc=0.9998 | val_f1=0.9905
+[loso_test_p6_val_p7] radar_stnet epoch 020/30 | train_loss=0.1344 | train_acc=0.9998 | val_f1=0.9854
+[loso_test_p6_val_p7] radar_stnet epoch 021/30 | train_loss=0.1343 | train_acc=0.9998 | val_f1=0.9821
+[loso_test_p6_val_p7] radar_stnet epoch 022/30 | train_loss=0.1340 | train_acc=0.9999 | val_f1=0.9797
+[loso_test_p6_val_p7] radar_stnet epoch 023/30 | train_loss=0.1340 | train_acc=0.9999 | val_f1=0.9847
+[loso_test_p6_val_p7] radar_stnet epoch 024/30 | train_loss=0.1338 | train_acc=0.9999 | val_f1=0.9843
+[loso_test_p6_val_p7] radar_stnet epoch 025/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.9859
+[loso_test_p6_val_p7] radar_stnet epoch 026/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.9782
+[loso_test_p6_val_p7] radar_stnet epoch 027/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.9810
+[loso_test_p6_val_p7] radar_stnet epoch 028/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.9825
+[loso_test_p6_val_p7] radar_stnet epoch 029/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.9768
+[loso_test_p6_val_p7] radar_stnet epoch 030/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.9826
+
+=== loso_test_p7_val_p1 | stats_svm ===
+train=[2, 3, 4, 5, 6], val=[1], test=[7]
+
+=== loso_test_p7_val_p1 | stats_rf ===
+train=[2, 3, 4, 5, 6], val=[1], test=[7]
+
+=== loso_test_p7_val_p1 | stats_knn ===
+train=[2, 3, 4, 5, 6], val=[1], test=[7]
+
+=== loso_test_p7_val_p1 | pointnet_gru ===
+train=[2, 3, 4, 5, 6], val=[1], test=[7]
+[loso_test_p7_val_p1] pointnet_gru epoch 001/30 | train_loss=0.1725 | train_acc=0.9882 | val_f1=0.3357
+[loso_test_p7_val_p1] pointnet_gru epoch 002/30 | train_loss=0.1387 | train_acc=0.9980 | val_f1=0.3495
+[loso_test_p7_val_p1] pointnet_gru epoch 003/30 | train_loss=0.1358 | train_acc=0.9988 | val_f1=0.3315
+[loso_test_p7_val_p1] pointnet_gru epoch 004/30 | train_loss=0.1351 | train_acc=0.9990 | val_f1=0.3479
+[loso_test_p7_val_p1] pointnet_gru epoch 005/30 | train_loss=0.1342 | train_acc=0.9992 | val_f1=0.3468
+[loso_test_p7_val_p1] pointnet_gru epoch 006/30 | train_loss=0.1335 | train_acc=0.9994 | val_f1=0.3285
+[loso_test_p7_val_p1] pointnet_gru epoch 007/30 | train_loss=0.1328 | train_acc=0.9996 | val_f1=0.3382
+[loso_test_p7_val_p1] pointnet_gru epoch 008/30 | train_loss=0.1336 | train_acc=0.9994 | val_f1=0.3708
+[loso_test_p7_val_p1] pointnet_gru epoch 009/30 | train_loss=0.1323 | train_acc=0.9997 | val_f1=0.3227
+[loso_test_p7_val_p1] pointnet_gru epoch 010/30 | train_loss=0.1325 | train_acc=0.9996 | val_f1=0.3522
+[loso_test_p7_val_p1] pointnet_gru epoch 011/30 | train_loss=0.1316 | train_acc=0.9999 | val_f1=0.3613
+[loso_test_p7_val_p1] pointnet_gru epoch 012/30 | train_loss=0.1321 | train_acc=0.9998 | val_f1=0.3338
+[loso_test_p7_val_p1] pointnet_gru epoch 013/30 | train_loss=0.1313 | train_acc=1.0000 | val_f1=0.3174
+[loso_test_p7_val_p1] pointnet_gru epoch 014/30 | train_loss=0.1317 | train_acc=0.9998 | val_f1=0.3893
+[loso_test_p7_val_p1] pointnet_gru epoch 015/30 | train_loss=0.1312 | train_acc=0.9999 | val_f1=0.3164
+[loso_test_p7_val_p1] pointnet_gru epoch 016/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.3970
+[loso_test_p7_val_p1] pointnet_gru epoch 017/30 | train_loss=0.1311 | train_acc=0.9999 | val_f1=0.3534
+[loso_test_p7_val_p1] pointnet_gru epoch 018/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.3925
+[loso_test_p7_val_p1] pointnet_gru epoch 019/30 | train_loss=0.1312 | train_acc=0.9999 | val_f1=0.3629
+[loso_test_p7_val_p1] pointnet_gru epoch 020/30 | train_loss=0.1311 | train_acc=0.9999 | val_f1=0.3651
+[loso_test_p7_val_p1] pointnet_gru epoch 021/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3715
+[loso_test_p7_val_p1] pointnet_gru epoch 022/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3402
+[loso_test_p7_val_p1] pointnet_gru epoch 023/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.3365
+[loso_test_p7_val_p1] pointnet_gru epoch 024/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3298
+[loso_test_p7_val_p1] pointnet_gru epoch 025/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3063
+[loso_test_p7_val_p1] pointnet_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3225
+[loso_test_p7_val_p1] pointnet_gru epoch 027/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3323
+[loso_test_p7_val_p1] pointnet_gru epoch 028/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3261
+[loso_test_p7_val_p1] pointnet_gru epoch 029/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3227
+[loso_test_p7_val_p1] pointnet_gru epoch 030/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.3241
+
+=== loso_test_p7_val_p1 | pointnet_tcn ===
+train=[2, 3, 4, 5, 6], val=[1], test=[7]
+[loso_test_p7_val_p1] pointnet_tcn epoch 001/30 | train_loss=0.1693 | train_acc=0.9909 | val_f1=0.3060
+[loso_test_p7_val_p1] pointnet_tcn epoch 002/30 | train_loss=0.1388 | train_acc=0.9987 | val_f1=0.3161
+[loso_test_p7_val_p1] pointnet_tcn epoch 003/30 | train_loss=0.1371 | train_acc=0.9990 | val_f1=0.3254
+[loso_test_p7_val_p1] pointnet_tcn epoch 004/30 | train_loss=0.1364 | train_acc=0.9990 | val_f1=0.3139
+[loso_test_p7_val_p1] pointnet_tcn epoch 005/30 | train_loss=0.1355 | train_acc=0.9994 | val_f1=0.3052
+[loso_test_p7_val_p1] pointnet_tcn epoch 006/30 | train_loss=0.1349 | train_acc=0.9995 | val_f1=0.3241
+[loso_test_p7_val_p1] pointnet_tcn epoch 007/30 | train_loss=0.1342 | train_acc=0.9996 | val_f1=0.3581
+[loso_test_p7_val_p1] pointnet_tcn epoch 008/30 | train_loss=0.1345 | train_acc=0.9996 | val_f1=0.3617
+[loso_test_p7_val_p1] pointnet_tcn epoch 009/30 | train_loss=0.1340 | train_acc=0.9997 | val_f1=0.2936
+[loso_test_p7_val_p1] pointnet_tcn epoch 010/30 | train_loss=0.1338 | train_acc=0.9997 | val_f1=0.3389
+[loso_test_p7_val_p1] pointnet_tcn epoch 011/30 | train_loss=0.1335 | train_acc=0.9998 | val_f1=0.3264
+[loso_test_p7_val_p1] pointnet_tcn epoch 012/30 | train_loss=0.1334 | train_acc=0.9998 | val_f1=0.2732
+[loso_test_p7_val_p1] pointnet_tcn epoch 013/30 | train_loss=0.1330 | train_acc=0.9999 | val_f1=0.3774
+[loso_test_p7_val_p1] pointnet_tcn epoch 014/30 | train_loss=0.1330 | train_acc=0.9999 | val_f1=0.3490
+[loso_test_p7_val_p1] pointnet_tcn epoch 015/30 | train_loss=0.1331 | train_acc=0.9998 | val_f1=0.3558
+[loso_test_p7_val_p1] pointnet_tcn epoch 016/30 | train_loss=0.1328 | train_acc=0.9999 | val_f1=0.3259
+[loso_test_p7_val_p1] pointnet_tcn epoch 017/30 | train_loss=0.1328 | train_acc=0.9999 | val_f1=0.3458
+[loso_test_p7_val_p1] pointnet_tcn epoch 018/30 | train_loss=0.1328 | train_acc=0.9999 | val_f1=0.3554
+[loso_test_p7_val_p1] pointnet_tcn epoch 019/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.3078
+[loso_test_p7_val_p1] pointnet_tcn epoch 020/30 | train_loss=0.1325 | train_acc=1.0000 | val_f1=0.4019
+[loso_test_p7_val_p1] pointnet_tcn epoch 021/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.3447
+[loso_test_p7_val_p1] pointnet_tcn epoch 022/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.3604
+[loso_test_p7_val_p1] pointnet_tcn epoch 023/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.3298
+[loso_test_p7_val_p1] pointnet_tcn epoch 024/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.3202
+[loso_test_p7_val_p1] pointnet_tcn epoch 025/30 | train_loss=0.1323 | train_acc=1.0000 | val_f1=0.3281
+[loso_test_p7_val_p1] pointnet_tcn epoch 026/30 | train_loss=0.1323 | train_acc=1.0000 | val_f1=0.3342
+[loso_test_p7_val_p1] pointnet_tcn epoch 027/30 | train_loss=0.1323 | train_acc=1.0000 | val_f1=0.3290
+[loso_test_p7_val_p1] pointnet_tcn epoch 028/30 | train_loss=0.1323 | train_acc=1.0000 | val_f1=0.3197
+[loso_test_p7_val_p1] pointnet_tcn epoch 029/30 | train_loss=0.1324 | train_acc=1.0000 | val_f1=0.3296
+[loso_test_p7_val_p1] pointnet_tcn epoch 030/30 | train_loss=0.1323 | train_acc=1.0000 | val_f1=0.3239
+
+=== loso_test_p7_val_p1 | robhar_like ===
+train=[2, 3, 4, 5, 6], val=[1], test=[7]
+[loso_test_p7_val_p1] robhar_like epoch 001/30 | train_loss=0.1815 | train_acc=0.9845 | val_f1=0.3463
+[loso_test_p7_val_p1] robhar_like epoch 002/30 | train_loss=0.1400 | train_acc=0.9978 | val_f1=0.2339
+[loso_test_p7_val_p1] robhar_like epoch 003/30 | train_loss=0.1371 | train_acc=0.9985 | val_f1=0.2514
+[loso_test_p7_val_p1] robhar_like epoch 004/30 | train_loss=0.1352 | train_acc=0.9992 | val_f1=0.3133
+[loso_test_p7_val_p1] robhar_like epoch 005/30 | train_loss=0.1345 | train_acc=0.9993 | val_f1=0.2447
+[loso_test_p7_val_p1] robhar_like epoch 006/30 | train_loss=0.1345 | train_acc=0.9993 | val_f1=0.3118
+[loso_test_p7_val_p1] robhar_like epoch 007/30 | train_loss=0.1333 | train_acc=0.9996 | val_f1=0.2937
+[loso_test_p7_val_p1] robhar_like epoch 008/30 | train_loss=0.1335 | train_acc=0.9995 | val_f1=0.3204
+[loso_test_p7_val_p1] robhar_like epoch 009/30 | train_loss=0.1335 | train_acc=0.9995 | val_f1=0.2845
+[loso_test_p7_val_p1] robhar_like epoch 010/30 | train_loss=0.1330 | train_acc=0.9997 | val_f1=0.3195
+[loso_test_p7_val_p1] robhar_like epoch 011/30 | train_loss=0.1325 | train_acc=0.9998 | val_f1=0.3243
+[loso_test_p7_val_p1] robhar_like epoch 012/30 | train_loss=0.1326 | train_acc=0.9997 | val_f1=0.3212
+[loso_test_p7_val_p1] robhar_like epoch 013/30 | train_loss=0.1320 | train_acc=0.9999 | val_f1=0.2256
+[loso_test_p7_val_p1] robhar_like epoch 014/30 | train_loss=0.1320 | train_acc=0.9999 | val_f1=0.3133
+[loso_test_p7_val_p1] robhar_like epoch 015/30 | train_loss=0.1321 | train_acc=0.9998 | val_f1=0.3234
+[loso_test_p7_val_p1] robhar_like epoch 016/30 | train_loss=0.1318 | train_acc=0.9999 | val_f1=0.2899
+[loso_test_p7_val_p1] robhar_like epoch 017/30 | train_loss=0.1317 | train_acc=1.0000 | val_f1=0.2929
+[loso_test_p7_val_p1] robhar_like epoch 018/30 | train_loss=0.1317 | train_acc=0.9999 | val_f1=0.3267
+[loso_test_p7_val_p1] robhar_like epoch 019/30 | train_loss=0.1316 | train_acc=1.0000 | val_f1=0.3266
+[loso_test_p7_val_p1] robhar_like epoch 020/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.3265
+[loso_test_p7_val_p1] robhar_like epoch 021/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.2991
+[loso_test_p7_val_p1] robhar_like epoch 022/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.2716
+[loso_test_p7_val_p1] robhar_like epoch 023/30 | train_loss=0.1315 | train_acc=1.0000 | val_f1=0.2781
+[loso_test_p7_val_p1] robhar_like epoch 024/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.2874
+[loso_test_p7_val_p1] robhar_like epoch 025/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.2683
+[loso_test_p7_val_p1] robhar_like epoch 026/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.2770
+[loso_test_p7_val_p1] robhar_like epoch 027/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.2871
+[loso_test_p7_val_p1] robhar_like epoch 028/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.2840
+[loso_test_p7_val_p1] robhar_like epoch 029/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.2794
+[loso_test_p7_val_p1] robhar_like epoch 030/30 | train_loss=0.1314 | train_acc=1.0000 | val_f1=0.2781
+
+=== loso_test_p7_val_p1 | pct_gru ===
+train=[2, 3, 4, 5, 6], val=[1], test=[7]
+[loso_test_p7_val_p1] pct_gru epoch 001/30 | train_loss=0.2323 | train_acc=0.9645 | val_f1=0.2277
+[loso_test_p7_val_p1] pct_gru epoch 002/30 | train_loss=0.1425 | train_acc=0.9967 | val_f1=0.2020
+[loso_test_p7_val_p1] pct_gru epoch 003/30 | train_loss=0.1378 | train_acc=0.9981 | val_f1=0.2388
+[loso_test_p7_val_p1] pct_gru epoch 004/30 | train_loss=0.1374 | train_acc=0.9982 | val_f1=0.2228
+[loso_test_p7_val_p1] pct_gru epoch 005/30 | train_loss=0.1351 | train_acc=0.9989 | val_f1=0.2192
+[loso_test_p7_val_p1] pct_gru epoch 006/30 | train_loss=0.1347 | train_acc=0.9990 | val_f1=0.2388
+[loso_test_p7_val_p1] pct_gru epoch 007/30 | train_loss=0.1331 | train_acc=0.9995 | val_f1=0.2208
+[loso_test_p7_val_p1] pct_gru epoch 008/30 | train_loss=0.1337 | train_acc=0.9993 | val_f1=0.2519
+[loso_test_p7_val_p1] pct_gru epoch 009/30 | train_loss=0.1329 | train_acc=0.9995 | val_f1=0.2711
+[loso_test_p7_val_p1] pct_gru epoch 010/30 | train_loss=0.1327 | train_acc=0.9996 | val_f1=0.2853
+[loso_test_p7_val_p1] pct_gru epoch 011/30 | train_loss=0.1321 | train_acc=0.9997 | val_f1=0.2501
+[loso_test_p7_val_p1] pct_gru epoch 012/30 | train_loss=0.1323 | train_acc=0.9996 | val_f1=0.2197
+[loso_test_p7_val_p1] pct_gru epoch 013/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.2127
+[loso_test_p7_val_p1] pct_gru epoch 014/30 | train_loss=0.1315 | train_acc=0.9998 | val_f1=0.2222
+[loso_test_p7_val_p1] pct_gru epoch 015/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.2211
+[loso_test_p7_val_p1] pct_gru epoch 016/30 | train_loss=0.1316 | train_acc=0.9998 | val_f1=0.2390
+[loso_test_p7_val_p1] pct_gru epoch 017/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.2386
+[loso_test_p7_val_p1] pct_gru epoch 018/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.2736
+[loso_test_p7_val_p1] pct_gru epoch 019/30 | train_loss=0.1311 | train_acc=0.9999 | val_f1=0.2592
+[loso_test_p7_val_p1] pct_gru epoch 020/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.2498
+[loso_test_p7_val_p1] pct_gru epoch 021/30 | train_loss=0.1312 | train_acc=0.9999 | val_f1=0.2361
+[loso_test_p7_val_p1] pct_gru epoch 022/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.2508
+[loso_test_p7_val_p1] pct_gru epoch 023/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.2465
+[loso_test_p7_val_p1] pct_gru epoch 024/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.2486
+[loso_test_p7_val_p1] pct_gru epoch 025/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.2460
+[loso_test_p7_val_p1] pct_gru epoch 026/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.2549
+[loso_test_p7_val_p1] pct_gru epoch 027/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.2489
+[loso_test_p7_val_p1] pct_gru epoch 028/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.2464
+[loso_test_p7_val_p1] pct_gru epoch 029/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.2482
+[loso_test_p7_val_p1] pct_gru epoch 030/30 | train_loss=0.1308 | train_acc=1.0000 | val_f1=0.2496
+
+=== loso_test_p7_val_p1 | dgcnn_gru ===
+train=[2, 3, 4, 5, 6], val=[1], test=[7]
+[loso_test_p7_val_p1] dgcnn_gru epoch 001/30 | train_loss=0.2013 | train_acc=0.9780 | val_f1=0.3477
+[loso_test_p7_val_p1] dgcnn_gru epoch 002/30 | train_loss=0.1400 | train_acc=0.9979 | val_f1=0.3843
+[loso_test_p7_val_p1] dgcnn_gru epoch 003/30 | train_loss=0.1354 | train_acc=0.9991 | val_f1=0.3743
+[loso_test_p7_val_p1] dgcnn_gru epoch 004/30 | train_loss=0.1360 | train_acc=0.9988 | val_f1=0.3022
+[loso_test_p7_val_p1] dgcnn_gru epoch 005/30 | train_loss=0.1354 | train_acc=0.9990 | val_f1=0.3941
+[loso_test_p7_val_p1] dgcnn_gru epoch 006/30 | train_loss=0.1336 | train_acc=0.9995 | val_f1=0.3741
+[loso_test_p7_val_p1] dgcnn_gru epoch 007/30 | train_loss=0.1330 | train_acc=0.9996 | val_f1=0.3838
+[loso_test_p7_val_p1] dgcnn_gru epoch 008/30 | train_loss=0.1334 | train_acc=0.9994 | val_f1=0.4303
+[loso_test_p7_val_p1] dgcnn_gru epoch 009/30 | train_loss=0.1324 | train_acc=0.9997 | val_f1=0.4012
+[loso_test_p7_val_p1] dgcnn_gru epoch 010/30 | train_loss=0.1327 | train_acc=0.9996 | val_f1=0.3721
+[loso_test_p7_val_p1] dgcnn_gru epoch 011/30 | train_loss=0.1319 | train_acc=0.9998 | val_f1=0.4161
+[loso_test_p7_val_p1] dgcnn_gru epoch 012/30 | train_loss=0.1321 | train_acc=0.9997 | val_f1=0.3177
+[loso_test_p7_val_p1] dgcnn_gru epoch 013/30 | train_loss=0.1315 | train_acc=0.9999 | val_f1=0.3690
+[loso_test_p7_val_p1] dgcnn_gru epoch 014/30 | train_loss=0.1317 | train_acc=0.9998 | val_f1=0.3630
+[loso_test_p7_val_p1] dgcnn_gru epoch 015/30 | train_loss=0.1317 | train_acc=0.9998 | val_f1=0.3855
+[loso_test_p7_val_p1] dgcnn_gru epoch 016/30 | train_loss=0.1313 | train_acc=0.9999 | val_f1=0.3640
+[loso_test_p7_val_p1] dgcnn_gru epoch 017/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.3663
+[loso_test_p7_val_p1] dgcnn_gru epoch 018/30 | train_loss=0.1314 | train_acc=0.9999 | val_f1=0.4131
+[loso_test_p7_val_p1] dgcnn_gru epoch 019/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.3837
+[loso_test_p7_val_p1] dgcnn_gru epoch 020/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.3668
+[loso_test_p7_val_p1] dgcnn_gru epoch 021/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.3447
+[loso_test_p7_val_p1] dgcnn_gru epoch 022/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.3499
+[loso_test_p7_val_p1] dgcnn_gru epoch 023/30 | train_loss=0.1311 | train_acc=1.0000 | val_f1=0.3894
+[loso_test_p7_val_p1] dgcnn_gru epoch 024/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.3630
+[loso_test_p7_val_p1] dgcnn_gru epoch 025/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3501
+[loso_test_p7_val_p1] dgcnn_gru epoch 026/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3414
+[loso_test_p7_val_p1] dgcnn_gru epoch 027/30 | train_loss=0.1310 | train_acc=1.0000 | val_f1=0.3463
+[loso_test_p7_val_p1] dgcnn_gru epoch 028/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3541
+[loso_test_p7_val_p1] dgcnn_gru epoch 029/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3519
+[loso_test_p7_val_p1] dgcnn_gru epoch 030/30 | train_loss=0.1309 | train_acc=1.0000 | val_f1=0.3551
+
+=== loso_test_p7_val_p1 | radar_stnet ===
+train=[2, 3, 4, 5, 6], val=[1], test=[7]
+[loso_test_p7_val_p1] radar_stnet epoch 001/30 | train_loss=0.1946 | train_acc=0.9829 | val_f1=0.4171
+[loso_test_p7_val_p1] radar_stnet epoch 002/30 | train_loss=0.1507 | train_acc=0.9966 | val_f1=0.2849
+[loso_test_p7_val_p1] radar_stnet epoch 003/30 | train_loss=0.1472 | train_acc=0.9974 | val_f1=0.3921
+[loso_test_p7_val_p1] radar_stnet epoch 004/30 | train_loss=0.1435 | train_acc=0.9983 | val_f1=0.3624
+[loso_test_p7_val_p1] radar_stnet epoch 005/30 | train_loss=0.1410 | train_acc=0.9988 | val_f1=0.3584
+[loso_test_p7_val_p1] radar_stnet epoch 006/30 | train_loss=0.1405 | train_acc=0.9989 | val_f1=0.3893
+[loso_test_p7_val_p1] radar_stnet epoch 007/30 | train_loss=0.1392 | train_acc=0.9992 | val_f1=0.3961
+[loso_test_p7_val_p1] radar_stnet epoch 008/30 | train_loss=0.1380 | train_acc=0.9993 | val_f1=0.4484
+[loso_test_p7_val_p1] radar_stnet epoch 009/30 | train_loss=0.1375 | train_acc=0.9993 | val_f1=0.4168
+[loso_test_p7_val_p1] radar_stnet epoch 010/30 | train_loss=0.1367 | train_acc=0.9995 | val_f1=0.3756
+[loso_test_p7_val_p1] radar_stnet epoch 011/30 | train_loss=0.1362 | train_acc=0.9996 | val_f1=0.3950
+[loso_test_p7_val_p1] radar_stnet epoch 012/30 | train_loss=0.1358 | train_acc=0.9996 | val_f1=0.3795
+[loso_test_p7_val_p1] radar_stnet epoch 013/30 | train_loss=0.1353 | train_acc=0.9997 | val_f1=0.5291
+[loso_test_p7_val_p1] radar_stnet epoch 014/30 | train_loss=0.1352 | train_acc=0.9997 | val_f1=0.4643
+[loso_test_p7_val_p1] radar_stnet epoch 015/30 | train_loss=0.1349 | train_acc=0.9998 | val_f1=0.4726
+[loso_test_p7_val_p1] radar_stnet epoch 016/30 | train_loss=0.1346 | train_acc=0.9998 | val_f1=0.3300
+[loso_test_p7_val_p1] radar_stnet epoch 017/30 | train_loss=0.1342 | train_acc=0.9999 | val_f1=0.4179
+[loso_test_p7_val_p1] radar_stnet epoch 018/30 | train_loss=0.1344 | train_acc=0.9998 | val_f1=0.3601
+[loso_test_p7_val_p1] radar_stnet epoch 019/30 | train_loss=0.1339 | train_acc=0.9999 | val_f1=0.4275
+[loso_test_p7_val_p1] radar_stnet epoch 020/30 | train_loss=0.1338 | train_acc=1.0000 | val_f1=0.3880
+[loso_test_p7_val_p1] radar_stnet epoch 021/30 | train_loss=0.1338 | train_acc=1.0000 | val_f1=0.4051
+[loso_test_p7_val_p1] radar_stnet epoch 022/30 | train_loss=0.1338 | train_acc=1.0000 | val_f1=0.3655
+[loso_test_p7_val_p1] radar_stnet epoch 023/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.4121
+[loso_test_p7_val_p1] radar_stnet epoch 024/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.4072
+[loso_test_p7_val_p1] radar_stnet epoch 025/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.4059
+[loso_test_p7_val_p1] radar_stnet epoch 026/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.3977
+[loso_test_p7_val_p1] radar_stnet epoch 027/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.3660
+[loso_test_p7_val_p1] radar_stnet epoch 028/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.3706
+[loso_test_p7_val_p1] radar_stnet epoch 029/30 | train_loss=0.1337 | train_acc=1.0000 | val_f1=0.3855
+[loso_test_p7_val_p1] radar_stnet epoch 030/30 | train_loss=0.1336 | train_acc=1.0000 | val_f1=0.3767
+
+LOSO 七折结果（可复制粘贴）
+
+DGCNN-GRU 在 7 折 LOSO 协议下取得样本级 Acc 71.62 ± 12.09%，样本级 Macro-F1 67.40 ± 14.54%；试次级 Acc 76.67 ± 14.53%，试次级 Macro-F1 71.32 ± 16.94%。
+PCT-GRU 在 7 折 LOSO 协议下取得样本级 Acc 62.66 ± 17.86%，样本级 Macro-F1 57.28 ± 20.70%；试次级 Acc 67.62 ± 19.02%，试次级 Macro-F1 60.90 ± 22.89%。
+PointNet-GRU 在 7 折 LOSO 协议下取得样本级 Acc 67.90 ± 13.57%，样本级 Macro-F1 63.09 ± 15.64%；试次级 Acc 71.90 ± 11.84%，试次级 Macro-F1 65.15 ± 14.34%。
+PointNet-TCN 在 7 折 LOSO 协议下取得样本级 Acc 76.72 ± 12.75%，样本级 Macro-F1 74.01 ± 13.57%；试次级 Acc 80.48 ± 13.93%，试次级 Macro-F1 76.26 ± 16.04%。
+Radar-STNet 在 7 折 LOSO 协议下取得样本级 Acc 79.87 ± 15.42%，样本级 Macro-F1 77.10 ± 17.87%；试次级 Acc 83.81 ± 16.15%，试次级 Macro-F1 79.52 ± 20.23%。
+RobHAR-like 在 7 折 LOSO 协议下取得样本级 Acc 63.89 ± 14.11%，样本级 Macro-F1 57.27 ± 16.55%；试次级 Acc 66.67 ± 13.47%，试次级 Macro-F1 58.65 ± 16.35%。
+Stats-KNN 在 7 折 LOSO 协议下取得样本级 Acc 48.83 ± 11.08%，样本级 Macro-F1 43.37 ± 12.73%；试次级 Acc 53.81 ± 14.96%，试次级 Macro-F1 45.18 ± 16.95%。
+Stats-RF 在 7 折 LOSO 协议下取得样本级 Acc 51.56 ± 11.45%，样本级 Macro-F1 43.73 ± 13.25%；试次级 Acc 50.95 ± 13.29%，试次级 Macro-F1 40.55 ± 15.33%。
+Stats-SVM 在 7 折 LOSO 协议下取得样本级 Acc 57.55 ± 12.37%，样本级 Macro-F1 52.53 ± 13.00%；试次级 Acc 62.38 ± 13.01%，试次级 Macro-F1 56.11 ± 14.29%。
+
+DGCNN-GRU 在 坐标噪声 条件下的 AUC 为 0.6370 ± 0.1349。
+DGCNN-GRU 在 点缺失 条件下的 AUC 为 0.6236 ± 0.1438。
+DGCNN-GRU 在 强合成杂波 条件下的 AUC 为 0.0687 ± 0.0127。
+DGCNN-GRU 在 结构化真实杂波 条件下的 AUC 为 0.1860 ± 0.0427。
+PCT-GRU 在 坐标噪声 条件下的 AUC 为 0.5803 ± 0.1879。
+PCT-GRU 在 点缺失 条件下的 AUC 为 0.5478 ± 0.2019。
+PCT-GRU 在 强合成杂波 条件下的 AUC 为 0.1531 ± 0.0713。
+PCT-GRU 在 结构化真实杂波 条件下的 AUC 为 0.3494 ± 0.0953。
+PointNet-GRU 在 坐标噪声 条件下的 AUC 为 0.6237 ± 0.1431。
+PointNet-GRU 在 点缺失 条件下的 AUC 为 0.6089 ± 0.1756。
+PointNet-GRU 在 强合成杂波 条件下的 AUC 为 0.0725 ± 0.0147。
+PointNet-GRU 在 结构化真实杂波 条件下的 AUC 为 0.2275 ± 0.0317。
+PointNet-TCN 在 坐标噪声 条件下的 AUC 为 0.7219 ± 0.1223。
+PointNet-TCN 在 点缺失 条件下的 AUC 为 0.6992 ± 0.1573。
+PointNet-TCN 在 强合成杂波 条件下的 AUC 为 0.0870 ± 0.0146。
+PointNet-TCN 在 结构化真实杂波 条件下的 AUC 为 0.2514 ± 0.0545。
+Radar-STNet 在 坐标噪声 条件下的 AUC 为 0.7605 ± 0.1718。
+Radar-STNet 在 点缺失 条件下的 AUC 为 0.7561 ± 0.1910。
+Radar-STNet 在 强合成杂波 条件下的 AUC 为 0.1366 ± 0.0484。
+Radar-STNet 在 结构化真实杂波 条件下的 AUC 为 0.3675 ± 0.1014。
+RobHAR-like 在 坐标噪声 条件下的 AUC 为 0.5740 ± 0.1592。
+RobHAR-like 在 点缺失 条件下的 AUC 为 0.5546 ± 0.1728。
+RobHAR-like 在 强合成杂波 条件下的 AUC 为 0.0743 ± 0.0274。
+RobHAR-like 在 结构化真实杂波 条件下的 AUC 为 0.2055 ± 0.0484。
+
+结果已保存到: /root/rivermind-fs/Radar/server_training_package/experiment_loso_all_models_7fold
